@@ -1,0 +1,82 @@
+# Parametry liczbowe (CLAUDE.md: jeden plik). Oznaczenie [DOMYŚLNE] = wartość przyjęta bez decyzji biznesowej.
+
+rok_budzetu: 2027
+data_symulacji: "2026-10-30"     # "dzisiaj" do testów terminów [SPÓJNOŚĆ]
+
+prog_uzasadnienia_proc: 10        # [DOMYŚLNE] D20
+prog_uzasadnienia_kwota: 50000    # [DOMYŚLNE] D20, zł
+dni_eskalacji: 2                  # [DOMYŚLNE] D10
+klucz_podzialu: marza_brutto      # D21
+mpk_floty: 450                    # [DOMYŚLNE] D2
+flota_koszt_bezposredni: true     # D3
+
+rata_leasingu: 9400               # zł netto / zestaw / miesiąc
+zestawy_docelowe: 14
+dostawy_zestawow: {1: 6, 2: 4, 3: 4}   # miesiąc 2027: liczba nowych zestawów
+cel_kursow_wlasnych_proc: 60
+przebieg_km_na_zestaw: 9000
+
+scenariusz_proc: 10
+limit_slow_opisu: 900             # [DOMYŚLNE] D33
+
+harmonogram:
+  rozeslanie: "2026-10-30"
+  termin_zlozenia: "2026-11-13"
+  termin_akceptacji: "2026-11-20"
+  konsolidacja_i_opis: "2026-11-27"
+  uchwala_zarzadu: "2026-12-04"
+  rada_nadzorcza: "2026-12-15"
+
+# Test wsteczny (sekcja 6)
+test_uczenie_do: "2025-09"
+test_od: "2025-10"
+test_do: "2026-09"
+dane_do: "2026-09"
+
+# Anomalie wyłączone z uczenia (sekcja 9, D24)
+anomalie:
+  - {miesiac: "2025-05", linia: FCL, kategoria: "uslugi dodatkowe (ubezpieczenie cargo, skladowanie)", powod: "jednorazowo ok. 3,63 mln zł (zwykle 0,3-0,4 mln)"}
+  - {miesiac: "2026-03", linia: TRN, kategoria: "podwykonawcy transportowi", powod: "możliwy podwójny import"}
+  - {miesiac: "2026-04", linia: TRN, kategoria: "podwykonawcy transportowi", powod: "możliwa korekta importu"}
+
+# Wolumen (czynnik) dla linii
+wolumen_linii: {FCL: fcl_teu, LCL: lcl_m3, CEL: zgloszenia_celne, TRN: kursy_transport}
+jednostka_linii: {FCL: TEU, LCL: m3, CEL: zgłoszenia, TRN: kursy}
+
+# Pozycje rozliczane w USD (Z1-R3, D15)
+pozycje_frachtowe_usd:
+  - "fracht morski"
+  - "fracht armatorski"
+  - "fracht skonsolidowany"
+  - "fracht armatorski (konsolidacja)"
+
+# Pozycje jednorazowe/roczne: podpowiedź = powtórka roku (Z3-R4)
+pozycje_jednorazowe:
+  - {mpk: 500, kategoria: "IT i licencje"}
+
+# Pozycja kosztu podwykonawców zależna od kursów obcych (Z3-R7)
+pozycja_podwykonawcow: {linia: TRN, kategoria: "podwykonawcy transportowi"}
+
+# Pozycje floty (Z1-R10) - koszt bezpośredni TRN, MPK 450
+pozycje_floty:
+  - "leasing zestawów"
+  - "paliwo"
+  - "opony"
+  - "serwis"
+  - "ubezpieczenia"
+  - "opłaty drogowe"
+  - "wynagrodzenia kierowców i dyspozytorów"
+
+# MPK: nazwa i linia (D22)
+mpk:
+  100: {nazwa: "Zarząd", linia: null}
+  200: {nazwa: "Finanse i administracja", linia: null}
+  300: {nazwa: "Sprzedaż", linia: null}
+  410: {nazwa: "Operacje — spedycja FCL", linia: FCL}
+  420: {nazwa: "Operacje — spedycja LCL", linia: LCL}
+  430: {nazwa: "Operacje — agencja celna", linia: CEL}
+  440: {nazwa: "Operacje — transport drogowy", linia: TRN}
+  450: {nazwa: "Flota własna", linia: TRN}
+  500: {nazwa: "IT", linia: null}
+mpk_wspolne: [100, 200, 300, 500]
+mpk_lacz_w_uczeniu: [410, 440]   # D23

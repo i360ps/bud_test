@@ -1,0 +1,67 @@
+# Wszystkie reguły uprawnień, przypisań formatek i zastępstw (CLAUDE.md: jeden plik).
+# Reguły przypisane do stanowisk, nie do nazwisk (Z2-R13).
+
+stanowiska:
+  # kod: nazwa, osoba (etykieta osoby), przelozony, data_odejscia (wakat od tej daty)
+  PREZES:   {nazwa: "Prezes Zarządu", osoba: "Prezes", przelozony: null}
+  CFO:      {nazwa: "CFO (Członek Zarządu ds. finansowych)", osoba: "CFO", przelozony: PREZES}
+  DO:       {nazwa: "Dyrektor Operacyjny", osoba: "Dyrektor Operacyjny", przelozony: PREZES}
+  DH:       {nazwa: "Dyrektor Handlowy", osoba: "Dyrektor Handlowy", przelozony: PREZES}
+  KONTROLER: {nazwa: "Kontroler Finansowy", osoba: "Kontroler Finansowy", przelozony: CFO}
+  K_FCL:    {nazwa: "Kierownik Działu Spedycji Pełnokontenerowej", osoba: "Dyrektor Operacyjny", przelozony: DO}  # p.o. = Dyrektor Operacyjny (Z2-K1)
+  K_LCL:    {nazwa: "Kierownik Działu Drobnicy", osoba: "Kierownik Działu Drobnicy", przelozony: DO, data_odejscia: "2026-10-31"}
+  K_CEL:    {nazwa: "Kierownik Działu Celnego", osoba: "Kierownik Działu Celnego", przelozony: DO}
+  K_DOW:    {nazwa: "Kierownik Działu Dowozów", osoba: "Kierownik Działu Dowozów", przelozony: DO}
+  K_IT:     {nazwa: "Kierownik IT", osoba: "Kierownik IT", przelozony: CFO}
+  K_FLOTY:  {nazwa: "Kierownik Floty", osoba: null, przelozony: DO, data_przyjscia: "2027-02-01"}  # D1
+  ZARZAD:   {nazwa: "Zarząd (odczyt)", osoba: "Zarząd", przelozony: null}
+  RADA:     {nazwa: "Rada Nadzorcza (odczyt)", osoba: "Rada Nadzorcza", przelozony: null}
+
+# Kto może wyznaczać osoby do formatek wakatów (D5)
+wyznacza_osoby_wakatow: DO
+
+# Przypisanie formatek (sekcja 2 specyfikacji). Klucz = id formatki.
+formatki:
+  LINIA_FCL: {typ: linia, linia: FCL, wypelnia: K_FCL, akceptuje: DO}
+  MPK_410:   {typ: mpk, mpk: 410, wypelnia: K_FCL, akceptuje: DO}
+  LINIA_LCL: {typ: linia, linia: LCL, wypelnia: K_LCL, akceptuje: DO}
+  MPK_420:   {typ: mpk, mpk: 420, wypelnia: K_LCL, akceptuje: DO}
+  LINIA_CEL: {typ: linia, linia: CEL, wypelnia: K_CEL, akceptuje: DO}
+  MPK_430:   {typ: mpk, mpk: 430, wypelnia: K_CEL, akceptuje: DO}
+  LINIA_TRN: {typ: linia, linia: TRN, wypelnia: K_DOW, akceptuje: DO}
+  MPK_440:   {typ: mpk, mpk: 440, wypelnia: K_DOW, akceptuje: DO}
+  FLOTA:     {typ: flota, mpk: 450, linia: TRN, wypelnia: K_FLOTY, akceptuje: DO}
+  MPK_100:   {typ: mpk, mpk: 100, wypelnia: PREZES, akceptuje: CFO}     # [DOMYŚLNE]
+  MPK_200:   {typ: mpk, mpk: 200, wypelnia: KONTROLER, akceptuje: CFO}  # [DOMYŚLNE]
+  MPK_300:   {typ: mpk, mpk: 300, wypelnia: DH, akceptuje: CFO}
+  MPK_500:   {typ: mpk, mpk: 500, wypelnia: K_IT, akceptuje: CFO}
+
+# Zastępstwa w sprawach budżetu (D6). Zakres "budzet" = akceptacja formatek, kurs, stawki.
+zastepstwa:
+  - {stanowisko: CFO, zastepca: KONTROLER, zakres: budzet}
+
+# Czego zastępca NIE może zatwierdzić (D7): własnej konsolidacji i opisu.
+# Wtedy zatwierdza przełożony nieobecnego (CFO -> Prezes, D13).
+zastepca_nie_zatwierdza: [opis, konsolidacja]
+
+# Nieobecności (Z2): CFO 2-13.11.2026
+nieobecnosci:
+  - {stanowisko: CFO, od: "2026-11-02", do: "2026-11-13"}
+
+# Kto co może (sekcja 2). Uprawnienia sprawdzane w kodzie przez te listy.
+uprawnienia:
+  ustala_kurs_i_stawki: [CFO]           # w zastępstwie Kontroler (D16)
+  uruchamia_predykcje: [KONTROLER]
+  poprawia_opis: [KONTROLER]
+  zatwierdza_opis: [CFO]                # w zastępstwie Prezes (D13)
+  widzi_wszystkie_formatki: [KONTROLER, CFO, DO, PREZES]
+  tylko_odczyt: [ZARZAD, RADA]
+
+# Widoki dashboardu dostępne dla stanowisk (sekcja 7)
+widoki:
+  PREZES: [Prezes, CFO, Dyrektor Operacyjny, Rada, Kontroler]
+  CFO: [CFO, Prezes, Dyrektor Operacyjny, Rada, Kontroler]
+  DO: [Dyrektor Operacyjny, Prezes]
+  KONTROLER: [Kontroler, CFO, Prezes, Dyrektor Operacyjny, Rada]
+  ZARZAD: [Prezes, CFO, Dyrektor Operacyjny, Rada]
+  RADA: [Rada]

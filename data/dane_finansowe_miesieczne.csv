@@ -1,0 +1,1606 @@
+miesiac;typ;linia;mpk;kategoria;kwota_pln
+2023-01;koszt_bezposredni;CEL;;systemy i oplaty celne;26228.08
+2023-01;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;163755.86
+2023-01;koszt_bezposredni;FCL;;fracht armatorski;6227356.62
+2023-01;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;912163.02
+2023-01;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;188215.89
+2023-01;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);703582.59
+2023-01;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);122580.77
+2023-01;koszt_bezposredni;LCL;;oplaty portowe;36532.97
+2023-01;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;57242.27
+2023-01;koszt_bezposredni;TRN;;podwykonawcy transportowi;1700162.22
+2023-01;koszt_operacyjny;;100;samochody sluzbowe;8802.16
+2023-01;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);13592.25
+2023-01;koszt_operacyjny;;100;wynagrodzenia z narzutami;91356.01
+2023-01;koszt_operacyjny;;200;najem biura i media;80706.92
+2023-01;koszt_operacyjny;;200;pozostale;18126.52
+2023-01;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);18662.90
+2023-01;koszt_operacyjny;;200;wynagrodzenia z narzutami;144041.01
+2023-01;koszt_operacyjny;;300;marketing i podroze;47953.89
+2023-01;koszt_operacyjny;;300;samochody sluzbowe;13552.31
+2023-01;koszt_operacyjny;;300;wynagrodzenia z narzutami;195758.84
+2023-01;koszt_operacyjny;;410;samochody sluzbowe;9925.93
+2023-01;koszt_operacyjny;;410;wynagrodzenia z narzutami;250871.58
+2023-01;koszt_operacyjny;;420;wynagrodzenia z narzutami;109172.44
+2023-01;koszt_operacyjny;;430;wynagrodzenia z narzutami;103200.98
+2023-01;koszt_operacyjny;;500;IT i licencje;958662.40
+2023-01;koszt_operacyjny;;500;wynagrodzenia z narzutami;75687.09
+2023-01;przychod;CEL;;konsultacje taryfowe i doradztwo celne;41748.99
+2023-01;przychod;CEL;;zgloszenia celne;406901.01
+2023-01;przychod;FCL;;fracht morski;6788759.09
+2023-01;przychod;FCL;;oplaty lokalne i dokumentacja;1148281.16
+2023-01;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);319479.37
+2023-01;przychod;LCL;;fracht skonsolidowany;840066.86
+2023-01;przychod;LCL;;oplaty magazynowe CFS;219551.59
+2023-01;przychod;TRN;;dowozy kontenerow;1868897.51
+2023-01;przychod;TRN;;oplaty dodatkowe (postoje, ADR);62258.00
+2023-02;koszt_bezposredni;CEL;;systemy i oplaty celne;26259.34
+2023-02;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;170038.24
+2023-02;koszt_bezposredni;FCL;;fracht armatorski;5308243.24
+2023-02;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;842612.80
+2023-02;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;134250.38
+2023-02;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);650762.02
+2023-02;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);114463.12
+2023-02;koszt_bezposredni;LCL;;oplaty portowe;34811.17
+2023-02;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;47497.42
+2023-02;koszt_bezposredni;TRN;;podwykonawcy transportowi;1417627.03
+2023-02;koszt_operacyjny;;100;samochody sluzbowe;8647.62
+2023-02;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);11032.33
+2023-02;koszt_operacyjny;;100;wynagrodzenia z narzutami;87456.74
+2023-02;koszt_operacyjny;;200;najem biura i media;85772.07
+2023-02;koszt_operacyjny;;200;pozostale;20640.91
+2023-02;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);64562.25
+2023-02;koszt_operacyjny;;200;wynagrodzenia z narzutami;143026.60
+2023-02;koszt_operacyjny;;300;marketing i podroze;34856.45
+2023-02;koszt_operacyjny;;300;samochody sluzbowe;14637.12
+2023-02;koszt_operacyjny;;300;wynagrodzenia z narzutami;190055.87
+2023-02;koszt_operacyjny;;410;samochody sluzbowe;9905.01
+2023-02;koszt_operacyjny;;410;wynagrodzenia z narzutami;255051.09
+2023-02;koszt_operacyjny;;420;wynagrodzenia z narzutami;106118.54
+2023-02;koszt_operacyjny;;430;wynagrodzenia z narzutami;104563.51
+2023-02;koszt_operacyjny;;500;IT i licencje;62133.22
+2023-02;koszt_operacyjny;;500;wynagrodzenia z narzutami;75678.50
+2023-02;przychod;CEL;;konsultacje taryfowe i doradztwo celne;38814.72
+2023-02;przychod;CEL;;zgloszenia celne;396883.78
+2023-02;przychod;FCL;;fracht morski;5801531.22
+2023-02;przychod;FCL;;oplaty lokalne i dokumentacja;1072951.54
+2023-02;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);267344.88
+2023-02;przychod;LCL;;fracht skonsolidowany;773534.86
+2023-02;przychod;LCL;;oplaty magazynowe CFS;212645.71
+2023-02;przychod;TRN;;dowozy kontenerow;1585966.14
+2023-02;przychod;TRN;;oplaty dodatkowe (postoje, ADR);50521.86
+2023-03;koszt_bezposredni;CEL;;systemy i oplaty celne;26271.52
+2023-03;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;211761.33
+2023-03;koszt_bezposredni;FCL;;fracht armatorski;5768891.36
+2023-03;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;923327.51
+2023-03;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;165141.03
+2023-03;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);811987.51
+2023-03;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);142572.64
+2023-03;koszt_bezposredni;LCL;;oplaty portowe;44272.37
+2023-03;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;55234.93
+2023-03;koszt_bezposredni;TRN;;podwykonawcy transportowi;1662893.46
+2023-03;koszt_operacyjny;;100;samochody sluzbowe;9547.82
+2023-03;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);15094.22
+2023-03;koszt_operacyjny;;100;wynagrodzenia z narzutami;91021.51
+2023-03;koszt_operacyjny;;200;najem biura i media;84590.89
+2023-03;koszt_operacyjny;;200;pozostale;17990.91
+2023-03;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);67178.05
+2023-03;koszt_operacyjny;;200;wynagrodzenia z narzutami;141577.67
+2023-03;koszt_operacyjny;;300;marketing i podroze;43664.45
+2023-03;koszt_operacyjny;;300;samochody sluzbowe;14099.74
+2023-03;koszt_operacyjny;;300;wynagrodzenia z narzutami;196863.78
+2023-03;koszt_operacyjny;;410;samochody sluzbowe;10742.87
+2023-03;koszt_operacyjny;;410;wynagrodzenia z narzutami;254575.94
+2023-03;koszt_operacyjny;;420;wynagrodzenia z narzutami;108037.33
+2023-03;koszt_operacyjny;;430;wynagrodzenia z narzutami;105902.29
+2023-03;koszt_operacyjny;;500;IT i licencje;54862.42
+2023-03;koszt_operacyjny;;500;wynagrodzenia z narzutami;75443.66
+2023-03;przychod;CEL;;konsultacje taryfowe i doradztwo celne;42451.98
+2023-03;przychod;CEL;;zgloszenia celne;484971.68
+2023-03;przychod;FCL;;fracht morski;6285386.73
+2023-03;przychod;FCL;;oplaty lokalne i dokumentacja;1219570.71
+2023-03;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);284381.29
+2023-03;przychod;LCL;;fracht skonsolidowany;983277.74
+2023-03;przychod;LCL;;oplaty magazynowe CFS;244005.63
+2023-03;przychod;TRN;;dowozy kontenerow;1845857.70
+2023-03;przychod;TRN;;oplaty dodatkowe (postoje, ADR);56905.53
+2023-04;koszt_bezposredni;CEL;;systemy i oplaty celne;25539.91
+2023-04;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;199097.84
+2023-04;koszt_bezposredni;FCL;;fracht armatorski;6856056.29
+2023-04;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1079567.99
+2023-04;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;162661.04
+2023-04;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);796010.83
+2023-04;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);127624.37
+2023-04;koszt_bezposredni;LCL;;oplaty portowe;40154.68
+2023-04;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;61956.88
+2023-04;koszt_bezposredni;TRN;;podwykonawcy transportowi;1823804.39
+2023-04;koszt_operacyjny;;100;samochody sluzbowe;9754.79
+2023-04;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);11191.64
+2023-04;koszt_operacyjny;;100;wynagrodzenia z narzutami;90599.12
+2023-04;koszt_operacyjny;;200;najem biura i media;85118.25
+2023-04;koszt_operacyjny;;200;pozostale;14638.82
+2023-04;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);20254.51
+2023-04;koszt_operacyjny;;200;wynagrodzenia z narzutami;144630.79
+2023-04;koszt_operacyjny;;300;marketing i podroze;32921.44
+2023-04;koszt_operacyjny;;300;samochody sluzbowe;12472.12
+2023-04;koszt_operacyjny;;300;wynagrodzenia z narzutami;192118.63
+2023-04;koszt_operacyjny;;410;samochody sluzbowe;10586.46
+2023-04;koszt_operacyjny;;410;wynagrodzenia z narzutami;250086.14
+2023-04;koszt_operacyjny;;420;wynagrodzenia z narzutami;105705.42
+2023-04;koszt_operacyjny;;430;wynagrodzenia z narzutami;104433.47
+2023-04;koszt_operacyjny;;500;IT i licencje;57786.08
+2023-04;koszt_operacyjny;;500;wynagrodzenia z narzutami;74875.44
+2023-04;przychod;CEL;;konsultacje taryfowe i doradztwo celne;37921.83
+2023-04;przychod;CEL;;zgloszenia celne;490132.36
+2023-04;przychod;FCL;;fracht morski;7438957.02
+2023-04;przychod;FCL;;oplaty lokalne i dokumentacja;1341477.33
+2023-04;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);308781.88
+2023-04;przychod;LCL;;fracht skonsolidowany;954480.19
+2023-04;przychod;LCL;;oplaty magazynowe CFS;242606.91
+2023-04;przychod;TRN;;dowozy kontenerow;2007438.84
+2023-04;przychod;TRN;;oplaty dodatkowe (postoje, ADR);72588.83
+2023-05;koszt_bezposredni;CEL;;systemy i oplaty celne;24138.20
+2023-05;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;212806.06
+2023-05;koszt_bezposredni;FCL;;fracht armatorski;6820372.24
+2023-05;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1071627.30
+2023-05;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;177150.85
+2023-05;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);825471.57
+2023-05;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);148088.36
+2023-05;koszt_bezposredni;LCL;;oplaty portowe;44770.61
+2023-05;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;60521.91
+2023-05;koszt_bezposredni;TRN;;podwykonawcy transportowi;1913064.41
+2023-05;koszt_operacyjny;;100;samochody sluzbowe;8183.31
+2023-05;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);14484.63
+2023-05;koszt_operacyjny;;100;wynagrodzenia z narzutami;88984.63
+2023-05;koszt_operacyjny;;200;najem biura i media;89249.67
+2023-05;koszt_operacyjny;;200;pozostale;17607.91
+2023-05;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);22003.16
+2023-05;koszt_operacyjny;;200;wynagrodzenia z narzutami;144406.65
+2023-05;koszt_operacyjny;;300;marketing i podroze;30881.50
+2023-05;koszt_operacyjny;;300;samochody sluzbowe;14155.57
+2023-05;koszt_operacyjny;;300;wynagrodzenia z narzutami;196526.69
+2023-05;koszt_operacyjny;;410;samochody sluzbowe;9529.02
+2023-05;koszt_operacyjny;;410;wynagrodzenia z narzutami;249089.67
+2023-05;koszt_operacyjny;;420;wynagrodzenia z narzutami;104759.21
+2023-05;koszt_operacyjny;;430;wynagrodzenia z narzutami;107570.06
+2023-05;koszt_operacyjny;;500;IT i licencje;59146.08
+2023-05;koszt_operacyjny;;500;wynagrodzenia z narzutami;76166.71
+2023-05;przychod;CEL;;konsultacje taryfowe i doradztwo celne;37608.23
+2023-05;przychod;CEL;;zgloszenia celne;523907.61
+2023-05;przychod;FCL;;fracht morski;7425948.18
+2023-05;przychod;FCL;;oplaty lokalne i dokumentacja;1380479.88
+2023-05;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);355295.17
+2023-05;przychod;LCL;;fracht skonsolidowany;978699.24
+2023-05;przychod;LCL;;oplaty magazynowe CFS;257003.58
+2023-05;przychod;TRN;;dowozy kontenerow;2120703.74
+2023-05;przychod;TRN;;oplaty dodatkowe (postoje, ADR);69608.69
+2023-06;koszt_bezposredni;CEL;;systemy i oplaty celne;26071.21
+2023-06;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;173585.54
+2023-06;koszt_bezposredni;FCL;;fracht armatorski;6162370.69
+2023-06;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1077332.52
+2023-06;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;156289.92
+2023-06;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);788158.66
+2023-06;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);129327.04
+2023-06;koszt_bezposredni;LCL;;oplaty portowe;42481.12
+2023-06;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;58653.29
+2023-06;koszt_bezposredni;TRN;;podwykonawcy transportowi;1813159.43
+2023-06;koszt_operacyjny;;100;samochody sluzbowe;8666.86
+2023-06;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);11116.81
+2023-06;koszt_operacyjny;;100;wynagrodzenia z narzutami;91133.05
+2023-06;koszt_operacyjny;;200;najem biura i media;91628.44
+2023-06;koszt_operacyjny;;200;pozostale;20445.29
+2023-06;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);16711.56
+2023-06;koszt_operacyjny;;200;wynagrodzenia z narzutami;140881.39
+2023-06;koszt_operacyjny;;300;marketing i podroze;36714.43
+2023-06;koszt_operacyjny;;300;samochody sluzbowe;16615.12
+2023-06;koszt_operacyjny;;300;wynagrodzenia z narzutami;187438.79
+2023-06;koszt_operacyjny;;410;samochody sluzbowe;9826.72
+2023-06;koszt_operacyjny;;410;wynagrodzenia z narzutami;253797.21
+2023-06;koszt_operacyjny;;420;wynagrodzenia z narzutami;108120.35
+2023-06;koszt_operacyjny;;430;wynagrodzenia z narzutami;106927.05
+2023-06;koszt_operacyjny;;500;IT i licencje;61276.39
+2023-06;koszt_operacyjny;;500;wynagrodzenia z narzutami;75367.25
+2023-06;przychod;CEL;;konsultacje taryfowe i doradztwo celne;39594.29
+2023-06;przychod;CEL;;zgloszenia celne;443038.09
+2023-06;przychod;FCL;;fracht morski;6773148.41
+2023-06;przychod;FCL;;oplaty lokalne i dokumentacja;1322856.21
+2023-06;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);311615.84
+2023-06;przychod;LCL;;fracht skonsolidowany;949799.50
+2023-06;przychod;LCL;;oplaty magazynowe CFS;249503.91
+2023-06;przychod;TRN;;dowozy kontenerow;2005134.56
+2023-06;przychod;TRN;;oplaty dodatkowe (postoje, ADR);77371.48
+2023-07;koszt_bezposredni;CEL;;systemy i oplaty celne;26387.48
+2023-07;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;176806.13
+2023-07;koszt_bezposredni;FCL;;fracht armatorski;5943222.93
+2023-07;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;934375.20
+2023-07;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;161720.54
+2023-07;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);725770.75
+2023-07;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);122545.65
+2023-07;koszt_bezposredni;LCL;;oplaty portowe;39322.42
+2023-07;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;58503.58
+2023-07;koszt_bezposredni;TRN;;podwykonawcy transportowi;1751170.90
+2023-07;koszt_operacyjny;;100;samochody sluzbowe;8057.97
+2023-07;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);8528.68
+2023-07;koszt_operacyjny;;100;wynagrodzenia z narzutami;91932.33
+2023-07;koszt_operacyjny;;200;najem biura i media;86114.38
+2023-07;koszt_operacyjny;;200;pozostale;14885.13
+2023-07;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);24696.15
+2023-07;koszt_operacyjny;;200;wynagrodzenia z narzutami;144200.50
+2023-07;koszt_operacyjny;;300;marketing i podroze;38301.22
+2023-07;koszt_operacyjny;;300;samochody sluzbowe;15624.88
+2023-07;koszt_operacyjny;;300;wynagrodzenia z narzutami;193998.09
+2023-07;koszt_operacyjny;;410;samochody sluzbowe;8403.84
+2023-07;koszt_operacyjny;;410;wynagrodzenia z narzutami;257899.54
+2023-07;koszt_operacyjny;;420;wynagrodzenia z narzutami;108588.25
+2023-07;koszt_operacyjny;;430;wynagrodzenia z narzutami;99954.56
+2023-07;koszt_operacyjny;;500;IT i licencje;60309.00
+2023-07;koszt_operacyjny;;500;wynagrodzenia z narzutami;76703.14
+2023-07;przychod;CEL;;konsultacje taryfowe i doradztwo celne;28437.49
+2023-07;przychod;CEL;;zgloszenia celne;417446.17
+2023-07;przychod;FCL;;fracht morski;6524531.24
+2023-07;przychod;FCL;;oplaty lokalne i dokumentacja;1182885.56
+2023-07;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);305532.36
+2023-07;przychod;LCL;;fracht skonsolidowany;881340.81
+2023-07;przychod;LCL;;oplaty magazynowe CFS;232602.30
+2023-07;przychod;TRN;;dowozy kontenerow;1937949.99
+2023-07;przychod;TRN;;oplaty dodatkowe (postoje, ADR);63903.76
+2023-08;koszt_bezposredni;CEL;;systemy i oplaty celne;26801.77
+2023-08;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;163846.65
+2023-08;koszt_bezposredni;FCL;;fracht armatorski;5382510.76
+2023-08;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;911084.36
+2023-08;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;163764.05
+2023-08;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);635666.17
+2023-08;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);119822.17
+2023-08;koszt_bezposredni;LCL;;oplaty portowe;35625.56
+2023-08;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;58285.38
+2023-08;koszt_bezposredni;TRN;;podwykonawcy transportowi;1820698.01
+2023-08;koszt_operacyjny;;100;samochody sluzbowe;7830.99
+2023-08;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);8796.14
+2023-08;koszt_operacyjny;;100;wynagrodzenia z narzutami;90955.53
+2023-08;koszt_operacyjny;;200;najem biura i media;90093.54
+2023-08;koszt_operacyjny;;200;pozostale;18158.61
+2023-08;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);20774.08
+2023-08;koszt_operacyjny;;200;wynagrodzenia z narzutami;144632.11
+2023-08;koszt_operacyjny;;300;marketing i podroze;33451.01
+2023-08;koszt_operacyjny;;300;samochody sluzbowe;15302.26
+2023-08;koszt_operacyjny;;300;wynagrodzenia z narzutami;182827.66
+2023-08;koszt_operacyjny;;410;samochody sluzbowe;9828.09
+2023-08;koszt_operacyjny;;410;wynagrodzenia z narzutami;249003.20
+2023-08;koszt_operacyjny;;420;wynagrodzenia z narzutami;108404.19
+2023-08;koszt_operacyjny;;430;wynagrodzenia z narzutami;104263.51
+2023-08;koszt_operacyjny;;500;IT i licencje;52856.75
+2023-08;koszt_operacyjny;;500;wynagrodzenia z narzutami;73274.35
+2023-08;przychod;CEL;;konsultacje taryfowe i doradztwo celne;33353.14
+2023-08;przychod;CEL;;zgloszenia celne;414510.98
+2023-08;przychod;FCL;;fracht morski;5923894.14
+2023-08;przychod;FCL;;oplaty lokalne i dokumentacja;1156996.86
+2023-08;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);272431.42
+2023-08;przychod;LCL;;fracht skonsolidowany;764732.35
+2023-08;przychod;LCL;;oplaty magazynowe CFS;220718.36
+2023-08;przychod;TRN;;dowozy kontenerow;1995481.26
+2023-08;przychod;TRN;;oplaty dodatkowe (postoje, ADR);64521.63
+2023-09;koszt_bezposredni;CEL;;systemy i oplaty celne;28243.18
+2023-09;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;195866.04
+2023-09;koszt_bezposredni;FCL;;fracht armatorski;5749425.35
+2023-09;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1069407.02
+2023-09;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;154346.09
+2023-09;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);815685.59
+2023-09;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);146595.05
+2023-09;koszt_bezposredni;LCL;;oplaty portowe;45744.20
+2023-09;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;56869.19
+2023-09;koszt_bezposredni;TRN;;podwykonawcy transportowi;1885528.57
+2023-09;koszt_operacyjny;;100;samochody sluzbowe;9138.56
+2023-09;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);13765.94
+2023-09;koszt_operacyjny;;100;wynagrodzenia z narzutami;89769.36
+2023-09;koszt_operacyjny;;200;najem biura i media;85516.97
+2023-09;koszt_operacyjny;;200;pozostale;19651.47
+2023-09;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);21787.94
+2023-09;koszt_operacyjny;;200;wynagrodzenia z narzutami;140161.11
+2023-09;koszt_operacyjny;;300;marketing i podroze;50231.71
+2023-09;koszt_operacyjny;;300;samochody sluzbowe;13775.35
+2023-09;koszt_operacyjny;;300;wynagrodzenia z narzutami;188553.41
+2023-09;koszt_operacyjny;;410;samochody sluzbowe;9771.20
+2023-09;koszt_operacyjny;;410;wynagrodzenia z narzutami;249570.98
+2023-09;koszt_operacyjny;;420;wynagrodzenia z narzutami;105100.72
+2023-09;koszt_operacyjny;;430;wynagrodzenia z narzutami;106619.67
+2023-09;koszt_operacyjny;;500;IT i licencje;62655.61
+2023-09;koszt_operacyjny;;500;wynagrodzenia z narzutami;74046.22
+2023-09;przychod;CEL;;konsultacje taryfowe i doradztwo celne;39669.18
+2023-09;przychod;CEL;;zgloszenia celne;478393.59
+2023-09;przychod;FCL;;fracht morski;6325539.52
+2023-09;przychod;FCL;;oplaty lokalne i dokumentacja;1316694.97
+2023-09;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);311576.03
+2023-09;przychod;LCL;;fracht skonsolidowany;970360.34
+2023-09;przychod;LCL;;oplaty magazynowe CFS;250687.93
+2023-09;przychod;TRN;;dowozy kontenerow;2076034.47
+2023-09;przychod;TRN;;oplaty dodatkowe (postoje, ADR);66827.34
+2023-10;koszt_bezposredni;CEL;;systemy i oplaty celne;24608.18
+2023-10;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;193062.30
+2023-10;koszt_bezposredni;FCL;;fracht armatorski;6654626.88
+2023-10;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1143732.96
+2023-10;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;212183.33
+2023-10;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);879258.29
+2023-10;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);147692.58
+2023-10;koszt_bezposredni;LCL;;oplaty portowe;46537.17
+2023-10;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;74382.58
+2023-10;koszt_bezposredni;TRN;;podwykonawcy transportowi;2048030.55
+2023-10;koszt_operacyjny;;100;samochody sluzbowe;9528.43
+2023-10;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);11580.24
+2023-10;koszt_operacyjny;;100;wynagrodzenia z narzutami;87079.62
+2023-10;koszt_operacyjny;;200;najem biura i media;90897.40
+2023-10;koszt_operacyjny;;200;pozostale;14916.42
+2023-10;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);22210.88
+2023-10;koszt_operacyjny;;200;wynagrodzenia z narzutami;142705.24
+2023-10;koszt_operacyjny;;300;marketing i podroze;38742.88
+2023-10;koszt_operacyjny;;300;samochody sluzbowe;15602.25
+2023-10;koszt_operacyjny;;300;wynagrodzenia z narzutami;189031.97
+2023-10;koszt_operacyjny;;410;samochody sluzbowe;9429.71
+2023-10;koszt_operacyjny;;410;wynagrodzenia z narzutami;251836.73
+2023-10;koszt_operacyjny;;420;wynagrodzenia z narzutami;107153.65
+2023-10;koszt_operacyjny;;430;wynagrodzenia z narzutami;108508.70
+2023-10;koszt_operacyjny;;500;IT i licencje;55178.68
+2023-10;koszt_operacyjny;;500;wynagrodzenia z narzutami;74910.88
+2023-10;przychod;CEL;;konsultacje taryfowe i doradztwo celne;44135.70
+2023-10;przychod;CEL;;zgloszenia celne;512231.77
+2023-10;przychod;FCL;;fracht morski;7315335.34
+2023-10;przychod;FCL;;oplaty lokalne i dokumentacja;1432309.77
+2023-10;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);317940.12
+2023-10;przychod;LCL;;fracht skonsolidowany;1053039.57
+2023-10;przychod;LCL;;oplaty magazynowe CFS;272872.34
+2023-10;przychod;TRN;;dowozy kontenerow;2234781.65
+2023-10;przychod;TRN;;oplaty dodatkowe (postoje, ADR);88620.56
+2023-11;koszt_bezposredni;CEL;;systemy i oplaty celne;24722.98
+2023-11;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;191231.32
+2023-11;koszt_bezposredni;FCL;;fracht armatorski;5880543.09
+2023-11;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1121954.13
+2023-11;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;174283.21
+2023-11;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);901808.39
+2023-11;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);148706.00
+2023-11;koszt_bezposredni;LCL;;oplaty portowe;47123.59
+2023-11;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;66362.74
+2023-11;koszt_bezposredni;TRN;;podwykonawcy transportowi;2000335.42
+2023-11;koszt_operacyjny;;100;samochody sluzbowe;8638.04
+2023-11;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);11168.14
+2023-11;koszt_operacyjny;;100;wynagrodzenia z narzutami;91137.91
+2023-11;koszt_operacyjny;;200;najem biura i media;90571.15
+2023-11;koszt_operacyjny;;200;pozostale;16579.26
+2023-11;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);22317.57
+2023-11;koszt_operacyjny;;200;wynagrodzenia z narzutami;146053.02
+2023-11;koszt_operacyjny;;300;marketing i podroze;27209.32
+2023-11;koszt_operacyjny;;300;samochody sluzbowe;15225.08
+2023-11;koszt_operacyjny;;300;wynagrodzenia z narzutami;190952.93
+2023-11;koszt_operacyjny;;410;samochody sluzbowe;11050.09
+2023-11;koszt_operacyjny;;410;wynagrodzenia z narzutami;250588.07
+2023-11;koszt_operacyjny;;420;wynagrodzenia z narzutami;108855.56
+2023-11;koszt_operacyjny;;430;wynagrodzenia z narzutami;105931.07
+2023-11;koszt_operacyjny;;500;IT i licencje;56363.92
+2023-11;koszt_operacyjny;;500;wynagrodzenia z narzutami;74699.77
+2023-11;przychod;CEL;;konsultacje taryfowe i doradztwo celne;39275.29
+2023-11;przychod;CEL;;zgloszenia celne;512922.79
+2023-11;przychod;FCL;;fracht morski;6470192.13
+2023-11;przychod;FCL;;oplaty lokalne i dokumentacja;1342405.97
+2023-11;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);328105.79
+2023-11;przychod;LCL;;fracht skonsolidowany;1056442.55
+2023-11;przychod;LCL;;oplaty magazynowe CFS;273466.56
+2023-11;przychod;TRN;;dowozy kontenerow;2210011.01
+2023-11;przychod;TRN;;oplaty dodatkowe (postoje, ADR);70534.25
+2023-12;koszt_bezposredni;CEL;;systemy i oplaty celne;25979.40
+2023-12;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;203972.04
+2023-12;koszt_bezposredni;FCL;;fracht armatorski;5188856.99
+2023-12;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;955960.77
+2023-12;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;142599.32
+2023-12;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);766398.50
+2023-12;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);132430.24
+2023-12;koszt_bezposredni;LCL;;oplaty portowe;39936.12
+2023-12;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;51700.20
+2023-12;koszt_bezposredni;TRN;;podwykonawcy transportowi;1583994.17
+2023-12;koszt_operacyjny;;100;samochody sluzbowe;9713.73
+2023-12;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);13717.45
+2023-12;koszt_operacyjny;;100;wynagrodzenia z narzutami;132413.09
+2023-12;koszt_operacyjny;;200;najem biura i media;82499.13
+2023-12;koszt_operacyjny;;200;pozostale;21860.94
+2023-12;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);19193.63
+2023-12;koszt_operacyjny;;200;wynagrodzenia z narzutami;203865.72
+2023-12;koszt_operacyjny;;300;marketing i podroze;24400.88
+2023-12;koszt_operacyjny;;300;samochody sluzbowe;13456.77
+2023-12;koszt_operacyjny;;300;wynagrodzenia z narzutami;274469.54
+2023-12;koszt_operacyjny;;410;samochody sluzbowe;10315.97
+2023-12;koszt_operacyjny;;410;wynagrodzenia z narzutami;362135.33
+2023-12;koszt_operacyjny;;420;wynagrodzenia z narzutami;152673.16
+2023-12;koszt_operacyjny;;430;wynagrodzenia z narzutami;151754.18
+2023-12;koszt_operacyjny;;500;IT i licencje;56908.02
+2023-12;koszt_operacyjny;;500;wynagrodzenia z narzutami;109812.54
+2023-12;przychod;CEL;;konsultacje taryfowe i doradztwo celne;33221.91
+2023-12;przychod;CEL;;zgloszenia celne;490827.12
+2023-12;przychod;FCL;;fracht morski;5746204.93
+2023-12;przychod;FCL;;oplaty lokalne i dokumentacja;1200394.19
+2023-12;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);248591.38
+2023-12;przychod;LCL;;fracht skonsolidowany;921019.22
+2023-12;przychod;LCL;;oplaty magazynowe CFS;244108.20
+2023-12;przychod;TRN;;dowozy kontenerow;1759122.03
+2023-12;przychod;TRN;;oplaty dodatkowe (postoje, ADR);66918.32
+2024-01;koszt_bezposredni;CEL;;systemy i oplaty celne;24568.44
+2024-01;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;185847.51
+2024-01;koszt_bezposredni;FCL;;fracht armatorski;9616396.71
+2024-01;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;954899.65
+2024-01;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;240768.10
+2024-01;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);775562.76
+2024-01;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);119062.77
+2024-01;koszt_bezposredni;LCL;;oplaty portowe;40738.40
+2024-01;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;56708.18
+2024-01;koszt_bezposredni;TRN;;podwykonawcy transportowi;1777449.39
+2024-01;koszt_operacyjny;;100;samochody sluzbowe;9933.68
+2024-01;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);10841.18
+2024-01;koszt_operacyjny;;100;wynagrodzenia z narzutami;97806.36
+2024-01;koszt_operacyjny;;200;najem biura i media;91805.42
+2024-01;koszt_operacyjny;;200;pozostale;18083.65
+2024-01;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);20525.36
+2024-01;koszt_operacyjny;;200;wynagrodzenia z narzutami;157759.48
+2024-01;koszt_operacyjny;;300;marketing i podroze;33941.74
+2024-01;koszt_operacyjny;;300;samochody sluzbowe;15439.51
+2024-01;koszt_operacyjny;;300;wynagrodzenia z narzutami;201333.42
+2024-01;koszt_operacyjny;;410;samochody sluzbowe;10030.99
+2024-01;koszt_operacyjny;;410;wynagrodzenia z narzutami;272490.86
+2024-01;koszt_operacyjny;;420;wynagrodzenia z narzutami;116875.29
+2024-01;koszt_operacyjny;;430;wynagrodzenia z narzutami;113020.91
+2024-01;koszt_operacyjny;;500;IT i licencje;963057.89
+2024-01;koszt_operacyjny;;500;wynagrodzenia z narzutami;81996.57
+2024-01;przychod;CEL;;konsultacje taryfowe i doradztwo celne;48917.89
+2024-01;przychod;CEL;;zgloszenia celne;475653.82
+2024-01;przychod;FCL;;fracht morski;10633813.12
+2024-01;przychod;FCL;;oplaty lokalne i dokumentacja;1260438.96
+2024-01;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);493125.32
+2024-01;przychod;LCL;;fracht skonsolidowany;922299.86
+2024-01;przychod;LCL;;oplaty magazynowe CFS;228137.17
+2024-01;przychod;TRN;;dowozy kontenerow;1968304.79
+2024-01;przychod;TRN;;oplaty dodatkowe (postoje, ADR);65711.94
+2024-02;koszt_bezposredni;CEL;;systemy i oplaty celne;27822.99
+2024-02;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;183727.99
+2024-02;koszt_bezposredni;FCL;;fracht armatorski;8487150.64
+2024-02;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;882326.49
+2024-02;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;229130.47
+2024-02;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);727061.28
+2024-02;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);119929.74
+2024-02;koszt_bezposredni;LCL;;oplaty portowe;35723.96
+2024-02;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;55510.51
+2024-02;koszt_bezposredni;TRN;;podwykonawcy transportowi;1539628.93
+2024-02;koszt_operacyjny;;100;samochody sluzbowe;8212.72
+2024-02;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);9102.39
+2024-02;koszt_operacyjny;;100;wynagrodzenia z narzutami;96407.05
+2024-02;koszt_operacyjny;;200;najem biura i media;90755.03
+2024-02;koszt_operacyjny;;200;pozostale;16894.04
+2024-02;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);61888.55
+2024-02;koszt_operacyjny;;200;wynagrodzenia z narzutami;152645.41
+2024-02;koszt_operacyjny;;300;marketing i podroze;33413.92
+2024-02;koszt_operacyjny;;300;samochody sluzbowe;15651.35
+2024-02;koszt_operacyjny;;300;wynagrodzenia z narzutami;206558.68
+2024-02;koszt_operacyjny;;410;samochody sluzbowe;10915.45
+2024-02;koszt_operacyjny;;410;wynagrodzenia z narzutami;268843.31
+2024-02;koszt_operacyjny;;420;wynagrodzenia z narzutami;117454.32
+2024-02;koszt_operacyjny;;430;wynagrodzenia z narzutami;115714.44
+2024-02;koszt_operacyjny;;500;IT i licencje;61010.78
+2024-02;koszt_operacyjny;;500;wynagrodzenia z narzutami;81332.18
+2024-02;przychod;CEL;;konsultacje taryfowe i doradztwo celne;38823.11
+2024-02;przychod;CEL;;zgloszenia celne;454158.07
+2024-02;przychod;FCL;;fracht morski;9252278.14
+2024-02;przychod;FCL;;oplaty lokalne i dokumentacja;1072518.83
+2024-02;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);469397.26
+2024-02;przychod;LCL;;fracht skonsolidowany;869217.60
+2024-02;przychod;LCL;;oplaty magazynowe CFS;217376.60
+2024-02;przychod;TRN;;dowozy kontenerow;1707605.22
+2024-02;przychod;TRN;;oplaty dodatkowe (postoje, ADR);68702.26
+2024-03;koszt_bezposredni;CEL;;systemy i oplaty celne;26556.95
+2024-03;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;219284.45
+2024-03;koszt_bezposredni;FCL;;fracht armatorski;11169117.25
+2024-03;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1046246.21
+2024-03;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;337370.99
+2024-03;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);922935.30
+2024-03;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);150234.66
+2024-03;koszt_bezposredni;LCL;;oplaty portowe;44053.08
+2024-03;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;68983.54
+2024-03;koszt_bezposredni;TRN;;podwykonawcy transportowi;2097731.04
+2024-03;koszt_operacyjny;;100;samochody sluzbowe;8868.28
+2024-03;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);13783.03
+2024-03;koszt_operacyjny;;100;wynagrodzenia z narzutami;97474.49
+2024-03;koszt_operacyjny;;200;najem biura i media;89310.59
+2024-03;koszt_operacyjny;;200;pozostale;16116.22
+2024-03;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);48685.48
+2024-03;koszt_operacyjny;;200;wynagrodzenia z narzutami;154994.12
+2024-03;koszt_operacyjny;;300;marketing i podroze;44462.42
+2024-03;koszt_operacyjny;;300;samochody sluzbowe;14268.97
+2024-03;koszt_operacyjny;;300;wynagrodzenia z narzutami;209952.90
+2024-03;koszt_operacyjny;;410;samochody sluzbowe;10303.71
+2024-03;koszt_operacyjny;;410;wynagrodzenia z narzutami;266972.17
+2024-03;koszt_operacyjny;;420;wynagrodzenia z narzutami;117222.08
+2024-03;koszt_operacyjny;;430;wynagrodzenia z narzutami;113478.69
+2024-03;koszt_operacyjny;;500;IT i licencje;59937.33
+2024-03;koszt_operacyjny;;500;wynagrodzenia z narzutami;81741.86
+2024-03;przychod;CEL;;konsultacje taryfowe i doradztwo celne;49200.21
+2024-03;przychod;CEL;;zgloszenia celne;534543.94
+2024-03;przychod;FCL;;fracht morski;12128208.17
+2024-03;przychod;FCL;;oplaty lokalne i dokumentacja;1301374.83
+2024-03;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);552840.30
+2024-03;przychod;LCL;;fracht skonsolidowany;1110013.07
+2024-03;przychod;LCL;;oplaty magazynowe CFS;264346.49
+2024-03;przychod;TRN;;dowozy kontenerow;2287564.98
+2024-03;przychod;TRN;;oplaty dodatkowe (postoje, ADR);86495.19
+2024-04;koszt_bezposredni;CEL;;systemy i oplaty celne;26695.37
+2024-04;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;204263.15
+2024-04;koszt_bezposredni;FCL;;fracht armatorski;11511712.16
+2024-04;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1185414.45
+2024-04;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;339755.90
+2024-04;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);857487.72
+2024-04;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);140129.67
+2024-04;koszt_bezposredni;LCL;;oplaty portowe;40388.51
+2024-04;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;69277.57
+2024-04;koszt_bezposredni;TRN;;podwykonawcy transportowi;2096552.75
+2024-04;koszt_operacyjny;;100;samochody sluzbowe;9672.41
+2024-04;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);13921.62
+2024-04;koszt_operacyjny;;100;wynagrodzenia z narzutami;96947.50
+2024-04;koszt_operacyjny;;200;najem biura i media;91764.90
+2024-04;koszt_operacyjny;;200;pozostale;15985.40
+2024-04;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);21321.67
+2024-04;koszt_operacyjny;;200;wynagrodzenia z narzutami;152439.70
+2024-04;koszt_operacyjny;;300;marketing i podroze;31448.65
+2024-04;koszt_operacyjny;;300;samochody sluzbowe;13825.55
+2024-04;koszt_operacyjny;;300;wynagrodzenia z narzutami;208720.02
+2024-04;koszt_operacyjny;;410;samochody sluzbowe;9235.86
+2024-04;koszt_operacyjny;;410;wynagrodzenia z narzutami;273595.16
+2024-04;koszt_operacyjny;;420;wynagrodzenia z narzutami;118342.87
+2024-04;koszt_operacyjny;;430;wynagrodzenia z narzutami;109751.39
+2024-04;koszt_operacyjny;;500;IT i licencje;61628.89
+2024-04;koszt_operacyjny;;500;wynagrodzenia z narzutami;82666.08
+2024-04;przychod;CEL;;konsultacje taryfowe i doradztwo celne;50160.47
+2024-04;przychod;CEL;;zgloszenia celne;516490.23
+2024-04;przychod;FCL;;fracht morski;12795246.35
+2024-04;przychod;FCL;;oplaty lokalne i dokumentacja;1448950.34
+2024-04;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);656984.25
+2024-04;przychod;LCL;;fracht skonsolidowany;1026208.63
+2024-04;przychod;LCL;;oplaty magazynowe CFS;237792.27
+2024-04;przychod;TRN;;dowozy kontenerow;2328497.82
+2024-04;przychod;TRN;;oplaty dodatkowe (postoje, ADR);79420.54
+2024-05;koszt_bezposredni;CEL;;systemy i oplaty celne;26062.93
+2024-05;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;211576.47
+2024-05;koszt_bezposredni;FCL;;fracht armatorski;11185148.47
+2024-05;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1140336.52
+2024-05;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;323354.29
+2024-05;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);898357.76
+2024-05;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);146544.80
+2024-05;koszt_bezposredni;LCL;;oplaty portowe;45063.40
+2024-05;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;88648.66
+2024-05;koszt_bezposredni;TRN;;podwykonawcy transportowi;2068603.83
+2024-05;koszt_operacyjny;;100;samochody sluzbowe;8390.38
+2024-05;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);17222.82
+2024-05;koszt_operacyjny;;100;wynagrodzenia z narzutami;98126.13
+2024-05;koszt_operacyjny;;200;najem biura i media;92557.23
+2024-05;koszt_operacyjny;;200;pozostale;18946.03
+2024-05;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);22064.69
+2024-05;koszt_operacyjny;;200;wynagrodzenia z narzutami;152394.09
+2024-05;koszt_operacyjny;;300;marketing i podroze;36126.21
+2024-05;koszt_operacyjny;;300;samochody sluzbowe;16155.76
+2024-05;koszt_operacyjny;;300;wynagrodzenia z narzutami;207699.72
+2024-05;koszt_operacyjny;;410;samochody sluzbowe;10052.03
+2024-05;koszt_operacyjny;;410;wynagrodzenia z narzutami;273230.62
+2024-05;koszt_operacyjny;;420;wynagrodzenia z narzutami;114367.03
+2024-05;koszt_operacyjny;;430;wynagrodzenia z narzutami;111575.05
+2024-05;koszt_operacyjny;;500;IT i licencje;59883.45
+2024-05;koszt_operacyjny;;500;wynagrodzenia z narzutami;82522.02
+2024-05;przychod;CEL;;konsultacje taryfowe i doradztwo celne;52293.41
+2024-05;przychod;CEL;;zgloszenia celne;554783.76
+2024-05;przychod;FCL;;fracht morski;12268843.95
+2024-05;przychod;FCL;;oplaty lokalne i dokumentacja;1450446.03
+2024-05;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);554951.99
+2024-05;przychod;LCL;;fracht skonsolidowany;1082937.06
+2024-05;przychod;LCL;;oplaty magazynowe CFS;265774.43
+2024-05;przychod;TRN;;dowozy kontenerow;2298216.24
+2024-05;przychod;TRN;;oplaty dodatkowe (postoje, ADR);87686.60
+2024-06;koszt_bezposredni;CEL;;systemy i oplaty celne;27370.46
+2024-06;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;193328.67
+2024-06;koszt_bezposredni;FCL;;fracht armatorski;11499153.83
+2024-06;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1169600.52
+2024-06;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;335541.66
+2024-06;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);945557.31
+2024-06;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);146456.97
+2024-06;koszt_bezposredni;LCL;;oplaty portowe;44945.95
+2024-06;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;59072.07
+2024-06;koszt_bezposredni;TRN;;podwykonawcy transportowi;1970539.34
+2024-06;koszt_operacyjny;;100;samochody sluzbowe;9963.11
+2024-06;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);14092.29
+2024-06;koszt_operacyjny;;100;wynagrodzenia z narzutami;96314.54
+2024-06;koszt_operacyjny;;200;najem biura i media;85281.94
+2024-06;koszt_operacyjny;;200;pozostale;20997.08
+2024-06;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);22975.28
+2024-06;koszt_operacyjny;;200;wynagrodzenia z narzutami;155328.40
+2024-06;koszt_operacyjny;;300;marketing i podroze;35378.38
+2024-06;koszt_operacyjny;;300;samochody sluzbowe;17560.37
+2024-06;koszt_operacyjny;;300;wynagrodzenia z narzutami;210415.34
+2024-06;koszt_operacyjny;;410;samochody sluzbowe;9974.01
+2024-06;koszt_operacyjny;;410;wynagrodzenia z narzutami;273957.33
+2024-06;koszt_operacyjny;;420;wynagrodzenia z narzutami;115819.05
+2024-06;koszt_operacyjny;;430;wynagrodzenia z narzutami;116293.49
+2024-06;koszt_operacyjny;;500;IT i licencje;56802.29
+2024-06;koszt_operacyjny;;500;wynagrodzenia z narzutami;79208.45
+2024-06;przychod;CEL;;konsultacje taryfowe i doradztwo celne;28854.43
+2024-06;przychod;CEL;;zgloszenia celne;513599.31
+2024-06;przychod;FCL;;fracht morski;12635805.52
+2024-06;przychod;FCL;;oplaty lokalne i dokumentacja;1448491.72
+2024-06;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);570484.72
+2024-06;przychod;LCL;;fracht skonsolidowany;1118168.35
+2024-06;przychod;LCL;;oplaty magazynowe CFS;265471.89
+2024-06;przychod;TRN;;dowozy kontenerow;2172930.43
+2024-06;przychod;TRN;;oplaty dodatkowe (postoje, ADR);62851.67
+2024-07;koszt_bezposredni;CEL;;systemy i oplaty celne;25325.70
+2024-07;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;199163.83
+2024-07;koszt_bezposredni;FCL;;fracht armatorski;8790151.27
+2024-07;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1079333.29
+2024-07;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;255980.16
+2024-07;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);834311.35
+2024-07;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);136237.87
+2024-07;koszt_bezposredni;LCL;;oplaty portowe;41423.47
+2024-07;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;54419.20
+2024-07;koszt_bezposredni;TRN;;podwykonawcy transportowi;1965943.14
+2024-07;koszt_operacyjny;;100;samochody sluzbowe;8471.59
+2024-07;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);12706.63
+2024-07;koszt_operacyjny;;100;wynagrodzenia z narzutami;98495.57
+2024-07;koszt_operacyjny;;200;najem biura i media;91587.03
+2024-07;koszt_operacyjny;;200;pozostale;14611.55
+2024-07;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);21130.86
+2024-07;koszt_operacyjny;;200;wynagrodzenia z narzutami;150117.54
+2024-07;koszt_operacyjny;;300;marketing i podroze;36484.33
+2024-07;koszt_operacyjny;;300;samochody sluzbowe;15057.56
+2024-07;koszt_operacyjny;;300;wynagrodzenia z narzutami;208869.47
+2024-07;koszt_operacyjny;;410;samochody sluzbowe;9721.95
+2024-07;koszt_operacyjny;;410;wynagrodzenia z narzutami;270838.14
+2024-07;koszt_operacyjny;;420;wynagrodzenia z narzutami;114851.84
+2024-07;koszt_operacyjny;;430;wynagrodzenia z narzutami;110166.81
+2024-07;koszt_operacyjny;;500;IT i licencje;67850.27
+2024-07;koszt_operacyjny;;500;wynagrodzenia z narzutami;81914.80
+2024-07;przychod;CEL;;konsultacje taryfowe i doradztwo celne;38982.55
+2024-07;przychod;CEL;;zgloszenia celne;491701.24
+2024-07;przychod;FCL;;fracht morski;9640686.37
+2024-07;przychod;FCL;;oplaty lokalne i dokumentacja;1319831.07
+2024-07;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);411229.26
+2024-07;przychod;LCL;;fracht skonsolidowany;982840.30
+2024-07;przychod;LCL;;oplaty magazynowe CFS;232956.52
+2024-07;przychod;TRN;;dowozy kontenerow;2152458.48
+2024-07;przychod;TRN;;oplaty dodatkowe (postoje, ADR);74711.77
+2024-08;koszt_bezposredni;CEL;;systemy i oplaty celne;27060.85
+2024-08;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;179388.93
+2024-08;koszt_bezposredni;FCL;;fracht armatorski;8513553.34
+2024-08;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1019219.23
+2024-08;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;187167.88
+2024-08;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);749751.52
+2024-08;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);123515.30
+2024-08;koszt_bezposredni;LCL;;oplaty portowe;35090.84
+2024-08;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;71084.46
+2024-08;koszt_bezposredni;TRN;;podwykonawcy transportowi;1944929.52
+2024-08;koszt_operacyjny;;100;samochody sluzbowe;8811.92
+2024-08;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);13166.21
+2024-08;koszt_operacyjny;;100;wynagrodzenia z narzutami;99415.18
+2024-08;koszt_operacyjny;;200;najem biura i media;91142.82
+2024-08;koszt_operacyjny;;200;pozostale;18953.63
+2024-08;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);16136.38
+2024-08;koszt_operacyjny;;200;wynagrodzenia z narzutami;154517.20
+2024-08;koszt_operacyjny;;300;marketing i podroze;32600.21
+2024-08;koszt_operacyjny;;300;samochody sluzbowe;15989.00
+2024-08;koszt_operacyjny;;300;wynagrodzenia z narzutami;208767.43
+2024-08;koszt_operacyjny;;410;samochody sluzbowe;8858.39
+2024-08;koszt_operacyjny;;410;wynagrodzenia z narzutami;274214.87
+2024-08;koszt_operacyjny;;420;wynagrodzenia z narzutami;116648.19
+2024-08;koszt_operacyjny;;430;wynagrodzenia z narzutami;111196.59
+2024-08;koszt_operacyjny;;500;IT i licencje;61518.57
+2024-08;koszt_operacyjny;;500;wynagrodzenia z narzutami;81417.67
+2024-08;przychod;CEL;;konsultacje taryfowe i doradztwo celne;43280.93
+2024-08;przychod;CEL;;zgloszenia celne;433425.03
+2024-08;przychod;FCL;;fracht morski;9270701.75
+2024-08;przychod;FCL;;oplaty lokalne i dokumentacja;1254663.10
+2024-08;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);499488.96
+2024-08;przychod;LCL;;fracht skonsolidowany;901825.51
+2024-08;przychod;LCL;;oplaty magazynowe CFS;215546.68
+2024-08;przychod;TRN;;dowozy kontenerow;2146876.20
+2024-08;przychod;TRN;;oplaty dodatkowe (postoje, ADR);76077.98
+2024-09;koszt_bezposredni;CEL;;systemy i oplaty celne;27073.32
+2024-09;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;208978.16
+2024-09;koszt_bezposredni;FCL;;fracht armatorski;9422210.79
+2024-09;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1122178.46
+2024-09;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;263754.03
+2024-09;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);932046.22
+2024-09;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);149722.17
+2024-09;koszt_bezposredni;LCL;;oplaty portowe;47282.15
+2024-09;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;60414.72
+2024-09;koszt_bezposredni;TRN;;podwykonawcy transportowi;2006917.03
+2024-09;koszt_operacyjny;;100;samochody sluzbowe;8713.75
+2024-09;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);12930.73
+2024-09;koszt_operacyjny;;100;wynagrodzenia z narzutami;99884.52
+2024-09;koszt_operacyjny;;200;najem biura i media;80424.88
+2024-09;koszt_operacyjny;;200;pozostale;17330.00
+2024-09;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);19284.09
+2024-09;koszt_operacyjny;;200;wynagrodzenia z narzutami;153391.10
+2024-09;koszt_operacyjny;;300;marketing i podroze;40013.40
+2024-09;koszt_operacyjny;;300;samochody sluzbowe;13506.22
+2024-09;koszt_operacyjny;;300;wynagrodzenia z narzutami;210267.99
+2024-09;koszt_operacyjny;;410;samochody sluzbowe;9510.20
+2024-09;koszt_operacyjny;;410;wynagrodzenia z narzutami;271879.72
+2024-09;koszt_operacyjny;;420;wynagrodzenia z narzutami;117929.45
+2024-09;koszt_operacyjny;;430;wynagrodzenia z narzutami;113501.40
+2024-09;koszt_operacyjny;;500;IT i licencje;54820.32
+2024-09;koszt_operacyjny;;500;wynagrodzenia z narzutami;80860.26
+2024-09;przychod;CEL;;konsultacje taryfowe i doradztwo celne;52260.77
+2024-09;przychod;CEL;;zgloszenia celne;503296.50
+2024-09;przychod;FCL;;fracht morski;10430984.44
+2024-09;przychod;FCL;;oplaty lokalne i dokumentacja;1458723.17
+2024-09;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);490853.50
+2024-09;przychod;LCL;;fracht skonsolidowany;1087165.91
+2024-09;przychod;LCL;;oplaty magazynowe CFS;255556.21
+2024-09;przychod;TRN;;dowozy kontenerow;2228430.72
+2024-09;przychod;TRN;;oplaty dodatkowe (postoje, ADR);73996.49
+2024-10;koszt_bezposredni;CEL;;systemy i oplaty celne;26058.03
+2024-10;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;216198.93
+2024-10;koszt_bezposredni;FCL;;fracht armatorski;9960462.70
+2024-10;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1239644.21
+2024-10;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;227170.00
+2024-10;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);997191.93
+2024-10;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);160332.15
+2024-10;koszt_bezposredni;LCL;;oplaty portowe;46168.26
+2024-10;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;88059.40
+2024-10;koszt_bezposredni;TRN;;podwykonawcy transportowi;2229196.88
+2024-10;koszt_operacyjny;;100;samochody sluzbowe;9073.32
+2024-10;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);14259.17
+2024-10;koszt_operacyjny;;100;wynagrodzenia z narzutami;96079.31
+2024-10;koszt_operacyjny;;200;najem biura i media;92380.48
+2024-10;koszt_operacyjny;;200;pozostale;16824.74
+2024-10;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);19213.96
+2024-10;koszt_operacyjny;;200;wynagrodzenia z narzutami;154536.18
+2024-10;koszt_operacyjny;;300;marketing i podroze;48154.67
+2024-10;koszt_operacyjny;;300;samochody sluzbowe;13389.55
+2024-10;koszt_operacyjny;;300;wynagrodzenia z narzutami;208634.80
+2024-10;koszt_operacyjny;;410;samochody sluzbowe;8726.32
+2024-10;koszt_operacyjny;;410;wynagrodzenia z narzutami;271283.53
+2024-10;koszt_operacyjny;;420;wynagrodzenia z narzutami;119090.54
+2024-10;koszt_operacyjny;;430;wynagrodzenia z narzutami;109108.20
+2024-10;koszt_operacyjny;;500;IT i licencje;60630.82
+2024-10;koszt_operacyjny;;500;wynagrodzenia z narzutami;83354.03
+2024-10;przychod;CEL;;konsultacje taryfowe i doradztwo celne;42952.23
+2024-10;przychod;CEL;;zgloszenia celne;532237.70
+2024-10;przychod;FCL;;fracht morski;10858705.99
+2024-10;przychod;FCL;;oplaty lokalne i dokumentacja;1631219.54
+2024-10;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);472182.79
+2024-10;przychod;LCL;;fracht skonsolidowany;1173281.64
+2024-10;przychod;LCL;;oplaty magazynowe CFS;266693.05
+2024-10;przychod;TRN;;dowozy kontenerow;2457047.70
+2024-10;przychod;TRN;;oplaty dodatkowe (postoje, ADR);96779.79
+2024-11;koszt_bezposredni;CEL;;systemy i oplaty celne;26843.10
+2024-11;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;232630.35
+2024-11;koszt_bezposredni;FCL;;fracht armatorski;9495102.84
+2024-11;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1193918.10
+2024-11;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;230240.13
+2024-11;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);1029862.89
+2024-11;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);163508.47
+2024-11;koszt_bezposredni;LCL;;oplaty portowe;50007.77
+2024-11;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;78124.13
+2024-11;koszt_bezposredni;TRN;;podwykonawcy transportowi;2263929.68
+2024-11;koszt_operacyjny;;100;samochody sluzbowe;9033.86
+2024-11;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);18743.45
+2024-11;koszt_operacyjny;;100;wynagrodzenia z narzutami;98303.99
+2024-11;koszt_operacyjny;;200;najem biura i media;95162.55
+2024-11;koszt_operacyjny;;200;pozostale;20828.95
+2024-11;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);22844.83
+2024-11;koszt_operacyjny;;200;wynagrodzenia z narzutami;156014.68
+2024-11;koszt_operacyjny;;300;marketing i podroze;29928.13
+2024-11;koszt_operacyjny;;300;samochody sluzbowe;17396.89
+2024-11;koszt_operacyjny;;300;wynagrodzenia z narzutami;209819.32
+2024-11;koszt_operacyjny;;410;samochody sluzbowe;10032.46
+2024-11;koszt_operacyjny;;410;wynagrodzenia z narzutami;270425.96
+2024-11;koszt_operacyjny;;420;wynagrodzenia z narzutami;114764.93
+2024-11;koszt_operacyjny;;430;wynagrodzenia z narzutami;114207.31
+2024-11;koszt_operacyjny;;500;IT i licencje;66906.50
+2024-11;koszt_operacyjny;;500;wynagrodzenia z narzutami;79107.00
+2024-11;przychod;CEL;;konsultacje taryfowe i doradztwo celne;34329.24
+2024-11;przychod;CEL;;zgloszenia celne;537277.56
+2024-11;przychod;FCL;;fracht morski;10324912.89
+2024-11;przychod;FCL;;oplaty lokalne i dokumentacja;1476673.77
+2024-11;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);447234.03
+2024-11;przychod;LCL;;fracht skonsolidowany;1240259.87
+2024-11;przychod;LCL;;oplaty magazynowe CFS;299285.78
+2024-11;przychod;TRN;;dowozy kontenerow;2496790.45
+2024-11;przychod;TRN;;oplaty dodatkowe (postoje, ADR);89509.50
+2024-12;koszt_bezposredni;CEL;;systemy i oplaty celne;25832.69
+2024-12;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;189872.94
+2024-12;koszt_bezposredni;FCL;;fracht armatorski;8071273.98
+2024-12;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1065493.60
+2024-12;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;189878.78
+2024-12;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);900566.25
+2024-12;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);135501.91
+2024-12;koszt_bezposredni;LCL;;oplaty portowe;41187.72
+2024-12;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;69301.49
+2024-12;koszt_bezposredni;TRN;;podwykonawcy transportowi;1933705.54
+2024-12;koszt_operacyjny;;100;samochody sluzbowe;9802.92
+2024-12;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);14365.41
+2024-12;koszt_operacyjny;;100;wynagrodzenia z narzutami;142415.32
+2024-12;koszt_operacyjny;;200;najem biura i media;91313.74
+2024-12;koszt_operacyjny;;200;pozostale;23223.54
+2024-12;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);23009.63
+2024-12;koszt_operacyjny;;200;wynagrodzenia z narzutami;222527.63
+2024-12;koszt_operacyjny;;300;marketing i podroze;37679.57
+2024-12;koszt_operacyjny;;300;samochody sluzbowe;16190.40
+2024-12;koszt_operacyjny;;300;wynagrodzenia z narzutami;297830.15
+2024-12;koszt_operacyjny;;410;samochody sluzbowe;10847.70
+2024-12;koszt_operacyjny;;410;wynagrodzenia z narzutami;395207.87
+2024-12;koszt_operacyjny;;420;wynagrodzenia z narzutami;170003.66
+2024-12;koszt_operacyjny;;430;wynagrodzenia z narzutami;161526.43
+2024-12;koszt_operacyjny;;500;IT i licencje;70048.33
+2024-12;koszt_operacyjny;;500;wynagrodzenia z narzutami;118508.25
+2024-12;przychod;CEL;;konsultacje taryfowe i doradztwo celne;42212.07
+2024-12;przychod;CEL;;zgloszenia celne;489775.83
+2024-12;przychod;FCL;;fracht morski;8982147.00
+2024-12;przychod;FCL;;oplaty lokalne i dokumentacja;1313616.14
+2024-12;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);434457.99
+2024-12;przychod;LCL;;fracht skonsolidowany;1060649.50
+2024-12;przychod;LCL;;oplaty magazynowe CFS;229437.54
+2024-12;przychod;TRN;;dowozy kontenerow;2134005.42
+2024-12;przychod;TRN;;oplaty dodatkowe (postoje, ADR);68622.51
+2025-01;koszt_bezposredni;CEL;;systemy i oplaty celne;26561.03
+2025-01;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;206326.12
+2025-01;koszt_bezposredni;FCL;;fracht armatorski;7294052.78
+2025-01;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1068864.16
+2025-01;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;197672.84
+2025-01;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);780690.50
+2025-01;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);127630.52
+2025-01;koszt_bezposredni;LCL;;oplaty portowe;41937.32
+2025-01;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;65698.09
+2025-01;koszt_bezposredni;TRN;;podwykonawcy transportowi;1970360.78
+2025-01;koszt_operacyjny;;100;samochody sluzbowe;8408.58
+2025-01;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);7691.84
+2025-01;koszt_operacyjny;;100;wynagrodzenia z narzutami;103708.25
+2025-01;koszt_operacyjny;;200;najem biura i media;89049.45
+2025-01;koszt_operacyjny;;200;pozostale;16741.96
+2025-01;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);24021.23
+2025-01;koszt_operacyjny;;200;wynagrodzenia z narzutami;162920.35
+2025-01;koszt_operacyjny;;300;marketing i podroze;37968.42
+2025-01;koszt_operacyjny;;300;samochody sluzbowe;15801.28
+2025-01;koszt_operacyjny;;300;wynagrodzenia z narzutami;220378.59
+2025-01;koszt_operacyjny;;410;samochody sluzbowe;10091.09
+2025-01;koszt_operacyjny;;410;wynagrodzenia z narzutami;294190.13
+2025-01;koszt_operacyjny;;420;wynagrodzenia z narzutami;126213.35
+2025-01;koszt_operacyjny;;430;wynagrodzenia z narzutami;121487.29
+2025-01;koszt_operacyjny;;500;IT i licencje;960344.60
+2025-01;koszt_operacyjny;;500;wynagrodzenia z narzutami;87971.55
+2025-01;przychod;CEL;;konsultacje taryfowe i doradztwo celne;61167.57
+2025-01;przychod;CEL;;zgloszenia celne;523234.06
+2025-01;przychod;FCL;;fracht morski;8022729.96
+2025-01;przychod;FCL;;oplaty lokalne i dokumentacja;1315243.23
+2025-01;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);354867.67
+2025-01;przychod;LCL;;fracht skonsolidowany;916041.31
+2025-01;przychod;LCL;;oplaty magazynowe CFS;224951.69
+2025-01;przychod;TRN;;dowozy kontenerow;2161281.87
+2025-01;przychod;TRN;;oplaty dodatkowe (postoje, ADR);85220.88
+2025-02;koszt_bezposredni;CEL;;systemy i oplaty celne;25891.26
+2025-02;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;180410.30
+2025-02;koszt_bezposredni;FCL;;fracht armatorski;6085113.28
+2025-02;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;957877.27
+2025-02;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;153323.90
+2025-02;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);738326.75
+2025-02;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);116781.00
+2025-02;koszt_bezposredni;LCL;;oplaty portowe;34929.15
+2025-02;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;62899.52
+2025-02;koszt_bezposredni;TRN;;podwykonawcy transportowi;1857480.79
+2025-02;koszt_operacyjny;;100;samochody sluzbowe;9110.58
+2025-02;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);11548.64
+2025-02;koszt_operacyjny;;100;wynagrodzenia z narzutami;103150.35
+2025-02;koszt_operacyjny;;200;najem biura i media;95322.84
+2025-02;koszt_operacyjny;;200;pozostale;15188.16
+2025-02;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);54554.13
+2025-02;koszt_operacyjny;;200;wynagrodzenia z narzutami;164421.26
+2025-02;koszt_operacyjny;;300;marketing i podroze;34920.31
+2025-02;koszt_operacyjny;;300;samochody sluzbowe;15605.56
+2025-02;koszt_operacyjny;;300;wynagrodzenia z narzutami;222122.11
+2025-02;koszt_operacyjny;;410;samochody sluzbowe;10479.79
+2025-02;koszt_operacyjny;;410;wynagrodzenia z narzutami;292710.06
+2025-02;koszt_operacyjny;;420;wynagrodzenia z narzutami;121747.07
+2025-02;koszt_operacyjny;;430;wynagrodzenia z narzutami;119892.24
+2025-02;koszt_operacyjny;;500;IT i licencje;63006.18
+2025-02;koszt_operacyjny;;500;wynagrodzenia z narzutami;87293.54
+2025-02;przychod;CEL;;konsultacje taryfowe i doradztwo celne;48918.25
+2025-02;przychod;CEL;;zgloszenia celne;493100.08
+2025-02;przychod;FCL;;fracht morski;6655378.37
+2025-02;przychod;FCL;;oplaty lokalne i dokumentacja;1143237.54
+2025-02;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);288797.45
+2025-02;przychod;LCL;;fracht skonsolidowany;880547.81
+2025-02;przychod;LCL;;oplaty magazynowe CFS;202777.74
+2025-02;przychod;TRN;;dowozy kontenerow;2069534.89
+2025-02;przychod;TRN;;oplaty dodatkowe (postoje, ADR);77623.94
+2025-03;koszt_bezposredni;CEL;;systemy i oplaty celne;27241.26
+2025-03;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;238005.83
+2025-03;koszt_bezposredni;FCL;;fracht armatorski;7171851.57
+2025-03;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1103127.35
+2025-03;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;214670.33
+2025-03;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);851832.83
+2025-03;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);149706.95
+2025-03;koszt_bezposredni;LCL;;oplaty portowe;43987.50
+2025-03;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;82951.63
+2025-03;koszt_bezposredni;TRN;;podwykonawcy transportowi;2177893.41
+2025-03;koszt_operacyjny;;100;samochody sluzbowe;9201.02
+2025-03;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);13003.74
+2025-03;koszt_operacyjny;;100;wynagrodzenia z narzutami;103230.81
+2025-03;koszt_operacyjny;;200;najem biura i media;94846.59
+2025-03;koszt_operacyjny;;200;pozostale;18971.97
+2025-03;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);58654.67
+2025-03;koszt_operacyjny;;200;wynagrodzenia z narzutami;163400.55
+2025-03;koszt_operacyjny;;300;marketing i podroze;38496.54
+2025-03;koszt_operacyjny;;300;samochody sluzbowe;12693.68
+2025-03;koszt_operacyjny;;300;wynagrodzenia z narzutami;225757.64
+2025-03;koszt_operacyjny;;410;samochody sluzbowe;9821.27
+2025-03;koszt_operacyjny;;410;wynagrodzenia z narzutami;286418.11
+2025-03;koszt_operacyjny;;420;wynagrodzenia z narzutami;125460.64
+2025-03;koszt_operacyjny;;430;wynagrodzenia z narzutami;121203.38
+2025-03;koszt_operacyjny;;500;IT i licencje;68516.28
+2025-03;koszt_operacyjny;;500;wynagrodzenia z narzutami;86784.08
+2025-03;przychod;CEL;;konsultacje taryfowe i doradztwo celne;46017.30
+2025-03;przychod;CEL;;zgloszenia celne;567363.61
+2025-03;przychod;FCL;;fracht morski;8020707.12
+2025-03;przychod;FCL;;oplaty lokalne i dokumentacja;1406004.20
+2025-03;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);347816.57
+2025-03;przychod;LCL;;fracht skonsolidowany;1002600.03
+2025-03;przychod;LCL;;oplaty magazynowe CFS;259312.50
+2025-03;przychod;TRN;;dowozy kontenerow;2400653.31
+2025-03;przychod;TRN;;oplaty dodatkowe (postoje, ADR);75794.28
+2025-04;koszt_bezposredni;CEL;;systemy i oplaty celne;25676.18
+2025-04;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;234693.13
+2025-04;koszt_bezposredni;FCL;;fracht armatorski;7731624.78
+2025-04;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1164247.00
+2025-04;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;185852.25
+2025-04;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);862021.94
+2025-04;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);149965.71
+2025-04;koszt_bezposredni;LCL;;oplaty portowe;45381.47
+2025-04;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;68480.90
+2025-04;koszt_bezposredni;TRN;;podwykonawcy transportowi;2227414.56
+2025-04;koszt_operacyjny;;100;samochody sluzbowe;9238.49
+2025-04;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);16253.58
+2025-04;koszt_operacyjny;;100;wynagrodzenia z narzutami;104769.16
+2025-04;koszt_operacyjny;;200;najem biura i media;94590.42
+2025-04;koszt_operacyjny;;200;pozostale;14405.29
+2025-04;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);15920.69
+2025-04;koszt_operacyjny;;200;wynagrodzenia z narzutami;165508.47
+2025-04;koszt_operacyjny;;300;marketing i podroze;36901.95
+2025-04;koszt_operacyjny;;300;samochody sluzbowe;13210.15
+2025-04;koszt_operacyjny;;300;wynagrodzenia z narzutami;213116.80
+2025-04;koszt_operacyjny;;410;samochody sluzbowe;10384.28
+2025-04;koszt_operacyjny;;410;wynagrodzenia z narzutami;291448.60
+2025-04;koszt_operacyjny;;420;wynagrodzenia z narzutami;125632.26
+2025-04;koszt_operacyjny;;430;wynagrodzenia z narzutami;121090.75
+2025-04;koszt_operacyjny;;500;IT i licencje;66638.03
+2025-04;koszt_operacyjny;;500;wynagrodzenia z narzutami;90415.14
+2025-04;przychod;CEL;;konsultacje taryfowe i doradztwo celne;37932.44
+2025-04;przychod;CEL;;zgloszenia celne;599437.77
+2025-04;przychod;FCL;;fracht morski;8523697.35
+2025-04;przychod;FCL;;oplaty lokalne i dokumentacja;1421886.11
+2025-04;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);368045.38
+2025-04;przychod;LCL;;fracht skonsolidowany;1050833.66
+2025-04;przychod;LCL;;oplaty magazynowe CFS;261829.96
+2025-04;przychod;TRN;;dowozy kontenerow;2456553.62
+2025-04;przychod;TRN;;oplaty dodatkowe (postoje, ADR);86050.35
+2025-05;koszt_bezposredni;CEL;;systemy i oplaty celne;24611.70
+2025-05;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;256294.00
+2025-05;koszt_bezposredni;FCL;;fracht armatorski;8040934.32
+2025-05;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1179028.27
+2025-05;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;2812902.44
+2025-05;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);902814.34
+2025-05;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);157145.59
+2025-05;koszt_bezposredni;LCL;;oplaty portowe;48611.11
+2025-05;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;82367.88
+2025-05;koszt_bezposredni;TRN;;podwykonawcy transportowi;2205353.14
+2025-05;koszt_operacyjny;;100;samochody sluzbowe;8191.87
+2025-05;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);9094.00
+2025-05;koszt_operacyjny;;100;wynagrodzenia z narzutami;105662.50
+2025-05;koszt_operacyjny;;200;najem biura i media;91431.53
+2025-05;koszt_operacyjny;;200;pozostale;23609.90
+2025-05;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);19984.42
+2025-05;koszt_operacyjny;;200;wynagrodzenia z narzutami;167286.12
+2025-05;koszt_operacyjny;;300;marketing i podroze;25213.42
+2025-05;koszt_operacyjny;;300;samochody sluzbowe;15681.55
+2025-05;koszt_operacyjny;;300;wynagrodzenia z narzutami;214850.69
+2025-05;koszt_operacyjny;;410;samochody sluzbowe;8629.19
+2025-05;koszt_operacyjny;;410;wynagrodzenia z narzutami;291008.37
+2025-05;koszt_operacyjny;;420;wynagrodzenia z narzutami;124796.70
+2025-05;koszt_operacyjny;;430;wynagrodzenia z narzutami;119338.30
+2025-05;koszt_operacyjny;;500;IT i licencje;63071.74
+2025-05;koszt_operacyjny;;500;wynagrodzenia z narzutami;89048.18
+2025-05;przychod;CEL;;konsultacje taryfowe i doradztwo celne;47189.45
+2025-05;przychod;CEL;;zgloszenia celne;591476.65
+2025-05;przychod;FCL;;fracht morski;8820338.11
+2025-05;przychod;FCL;;oplaty lokalne i dokumentacja;1394866.51
+2025-05;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);3632993.15
+2025-05;przychod;LCL;;fracht skonsolidowany;1082567.38
+2025-05;przychod;LCL;;oplaty magazynowe CFS;274827.43
+2025-05;przychod;TRN;;dowozy kontenerow;2445977.80
+2025-05;przychod;TRN;;oplaty dodatkowe (postoje, ADR);109398.84
+2025-06;koszt_bezposredni;CEL;;systemy i oplaty celne;25522.74
+2025-06;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;235083.96
+2025-06;koszt_bezposredni;FCL;;fracht armatorski;7011215.49
+2025-06;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1154570.67
+2025-06;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;182255.90
+2025-06;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);791493.46
+2025-06;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);134834.43
+2025-06;koszt_bezposredni;LCL;;oplaty portowe;42371.98
+2025-06;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;86077.46
+2025-06;koszt_bezposredni;TRN;;podwykonawcy transportowi;2123184.81
+2025-06;koszt_operacyjny;;100;samochody sluzbowe;8734.41
+2025-06;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);7328.50
+2025-06;koszt_operacyjny;;100;wynagrodzenia z narzutami;104957.77
+2025-06;koszt_operacyjny;;200;najem biura i media;93964.54
+2025-06;koszt_operacyjny;;200;pozostale;19049.87
+2025-06;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);21592.89
+2025-06;koszt_operacyjny;;200;wynagrodzenia z narzutami;160907.90
+2025-06;koszt_operacyjny;;300;marketing i podroze;32707.43
+2025-06;koszt_operacyjny;;300;samochody sluzbowe;14623.17
+2025-06;koszt_operacyjny;;300;wynagrodzenia z narzutami;221012.26
+2025-06;koszt_operacyjny;;410;samochody sluzbowe;10166.52
+2025-06;koszt_operacyjny;;410;wynagrodzenia z narzutami;288809.88
+2025-06;koszt_operacyjny;;420;wynagrodzenia z narzutami;124418.54
+2025-06;koszt_operacyjny;;430;wynagrodzenia z narzutami;122282.92
+2025-06;koszt_operacyjny;;500;IT i licencje;60896.91
+2025-06;koszt_operacyjny;;500;wynagrodzenia z narzutami;87240.15
+2025-06;przychod;CEL;;konsultacje taryfowe i doradztwo celne;52460.81
+2025-06;przychod;CEL;;zgloszenia celne;592566.61
+2025-06;przychod;FCL;;fracht morski;7629091.14
+2025-06;przychod;FCL;;oplaty lokalne i dokumentacja;1425490.07
+2025-06;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);377008.26
+2025-06;przychod;LCL;;fracht skonsolidowany;943610.74
+2025-06;przychod;LCL;;oplaty magazynowe CFS;249640.66
+2025-06;przychod;TRN;;dowozy kontenerow;2333357.69
+2025-06;przychod;TRN;;oplaty dodatkowe (postoje, ADR);94786.58
+2025-07;koszt_bezposredni;CEL;;systemy i oplaty celne;26012.73
+2025-07;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;223151.41
+2025-07;koszt_bezposredni;FCL;;fracht armatorski;6214633.06
+2025-07;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1032557.87
+2025-07;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;168519.95
+2025-07;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);871596.32
+2025-07;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);142330.57
+2025-07;koszt_bezposredni;LCL;;oplaty portowe;43193.59
+2025-07;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;70903.70
+2025-07;koszt_bezposredni;TRN;;podwykonawcy transportowi;1971034.87
+2025-07;koszt_operacyjny;;100;samochody sluzbowe;8768.49
+2025-07;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);11832.90
+2025-07;koszt_operacyjny;;100;wynagrodzenia z narzutami;107433.18
+2025-07;koszt_operacyjny;;200;najem biura i media;96592.40
+2025-07;koszt_operacyjny;;200;pozostale;14958.58
+2025-07;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);19762.83
+2025-07;koszt_operacyjny;;200;wynagrodzenia z narzutami;161687.14
+2025-07;koszt_operacyjny;;300;marketing i podroze;30454.98
+2025-07;koszt_operacyjny;;300;samochody sluzbowe;14622.18
+2025-07;koszt_operacyjny;;300;wynagrodzenia z narzutami;223876.33
+2025-07;koszt_operacyjny;;410;samochody sluzbowe;5786.57
+2025-07;koszt_operacyjny;;410;wynagrodzenia z narzutami;213546.04
+2025-07;koszt_operacyjny;;420;wynagrodzenia z narzutami;123645.15
+2025-07;koszt_operacyjny;;430;wynagrodzenia z narzutami;116670.49
+2025-07;koszt_operacyjny;;440;samochody sluzbowe;3625.88
+2025-07;koszt_operacyjny;;440;wynagrodzenia z narzutami;75078.07
+2025-07;koszt_operacyjny;;500;IT i licencje;64744.33
+2025-07;koszt_operacyjny;;500;wynagrodzenia z narzutami;84962.37
+2025-07;przychod;CEL;;konsultacje taryfowe i doradztwo celne;48649.00
+2025-07;przychod;CEL;;zgloszenia celne;525848.40
+2025-07;przychod;FCL;;fracht morski;6726029.34
+2025-07;przychod;FCL;;oplaty lokalne i dokumentacja;1328044.23
+2025-07;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);289042.57
+2025-07;przychod;LCL;;fracht skonsolidowany;1043050.57
+2025-07;przychod;LCL;;oplaty magazynowe CFS;249550.70
+2025-07;przychod;TRN;;dowozy kontenerow;2181521.82
+2025-07;przychod;TRN;;oplaty dodatkowe (postoje, ADR);58619.49
+2025-08;koszt_bezposredni;CEL;;systemy i oplaty celne;27284.91
+2025-08;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;201089.33
+2025-08;koszt_bezposredni;FCL;;fracht armatorski;5957070.59
+2025-08;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1014071.17
+2025-08;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;177810.66
+2025-08;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);771950.77
+2025-08;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);123220.14
+2025-08;koszt_bezposredni;LCL;;oplaty portowe;36832.05
+2025-08;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;60292.97
+2025-08;koszt_bezposredni;TRN;;podwykonawcy transportowi;2008709.47
+2025-08;koszt_operacyjny;;100;samochody sluzbowe;10376.23
+2025-08;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);18794.98
+2025-08;koszt_operacyjny;;100;wynagrodzenia z narzutami;103320.72
+2025-08;koszt_operacyjny;;200;najem biura i media;94415.02
+2025-08;koszt_operacyjny;;200;pozostale;16050.33
+2025-08;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);22635.45
+2025-08;koszt_operacyjny;;200;wynagrodzenia z narzutami;167273.20
+2025-08;koszt_operacyjny;;300;marketing i podroze;34955.47
+2025-08;koszt_operacyjny;;300;samochody sluzbowe;15766.09
+2025-08;koszt_operacyjny;;300;wynagrodzenia z narzutami;217640.59
+2025-08;koszt_operacyjny;;410;samochody sluzbowe;5874.84
+2025-08;koszt_operacyjny;;410;wynagrodzenia z narzutami;216644.93
+2025-08;koszt_operacyjny;;420;wynagrodzenia z narzutami;122746.91
+2025-08;koszt_operacyjny;;430;wynagrodzenia z narzutami;124167.73
+2025-08;koszt_operacyjny;;440;samochody sluzbowe;3352.14
+2025-08;koszt_operacyjny;;440;wynagrodzenia z narzutami;76981.97
+2025-08;koszt_operacyjny;;500;IT i licencje;65955.14
+2025-08;koszt_operacyjny;;500;wynagrodzenia z narzutami;90792.90
+2025-08;przychod;CEL;;konsultacje taryfowe i doradztwo celne;52579.69
+2025-08;przychod;CEL;;zgloszenia celne;528973.76
+2025-08;przychod;FCL;;fracht morski;6615957.80
+2025-08;przychod;FCL;;oplaty lokalne i dokumentacja;1302387.15
+2025-08;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);274726.50
+2025-08;przychod;LCL;;fracht skonsolidowany;914408.65
+2025-08;przychod;LCL;;oplaty magazynowe CFS;220981.25
+2025-08;przychod;TRN;;dowozy kontenerow;2208714.46
+2025-08;przychod;TRN;;oplaty dodatkowe (postoje, ADR);84774.85
+2025-09;koszt_bezposredni;CEL;;systemy i oplaty celne;25818.54
+2025-09;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;230698.32
+2025-09;koszt_bezposredni;FCL;;fracht armatorski;6700673.07
+2025-09;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1177179.22
+2025-09;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;175182.67
+2025-09;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);922509.10
+2025-09;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);152552.82
+2025-09;koszt_bezposredni;LCL;;oplaty portowe;46972.66
+2025-09;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;85804.55
+2025-09;koszt_bezposredni;TRN;;podwykonawcy transportowi;2273219.20
+2025-09;koszt_operacyjny;;100;samochody sluzbowe;9921.48
+2025-09;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);12251.38
+2025-09;koszt_operacyjny;;100;wynagrodzenia z narzutami;104881.34
+2025-09;koszt_operacyjny;;200;najem biura i media;92252.55
+2025-09;koszt_operacyjny;;200;pozostale;14776.76
+2025-09;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);20980.10
+2025-09;koszt_operacyjny;;200;wynagrodzenia z narzutami;167711.18
+2025-09;koszt_operacyjny;;300;marketing i podroze;42421.61
+2025-09;koszt_operacyjny;;300;samochody sluzbowe;13606.68
+2025-09;koszt_operacyjny;;300;wynagrodzenia z narzutami;225515.77
+2025-09;koszt_operacyjny;;410;samochody sluzbowe;5516.29
+2025-09;koszt_operacyjny;;410;wynagrodzenia z narzutami;211796.21
+2025-09;koszt_operacyjny;;420;wynagrodzenia z narzutami;128892.20
+2025-09;koszt_operacyjny;;430;wynagrodzenia z narzutami;120192.13
+2025-09;koszt_operacyjny;;440;samochody sluzbowe;4256.89
+2025-09;koszt_operacyjny;;440;wynagrodzenia z narzutami;78501.47
+2025-09;koszt_operacyjny;;500;IT i licencje;65802.51
+2025-09;koszt_operacyjny;;500;wynagrodzenia z narzutami;88136.89
+2025-09;przychod;CEL;;konsultacje taryfowe i doradztwo celne;51194.54
+2025-09;przychod;CEL;;zgloszenia celne;546021.52
+2025-09;przychod;FCL;;fracht morski;7336633.34
+2025-09;przychod;FCL;;oplaty lokalne i dokumentacja;1456405.62
+2025-09;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);335413.83
+2025-09;przychod;LCL;;fracht skonsolidowany;1107182.50
+2025-09;przychod;LCL;;oplaty magazynowe CFS;256629.98
+2025-09;przychod;TRN;;dowozy kontenerow;2500352.03
+2025-09;przychod;TRN;;oplaty dodatkowe (postoje, ADR);68873.94
+2025-10;koszt_bezposredni;CEL;;systemy i oplaty celne;27377.07
+2025-10;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;235592.82
+2025-10;koszt_bezposredni;FCL;;fracht armatorski;7572388.30
+2025-10;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1269012.31
+2025-10;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;189258.51
+2025-10;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);986694.92
+2025-10;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);146443.04
+2025-10;koszt_bezposredni;LCL;;oplaty portowe;48526.30
+2025-10;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;74222.32
+2025-10;koszt_bezposredni;TRN;;podwykonawcy transportowi;2273033.94
+2025-10;koszt_operacyjny;;100;samochody sluzbowe;9211.41
+2025-10;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);12020.54
+2025-10;koszt_operacyjny;;100;wynagrodzenia z narzutami;107307.07
+2025-10;koszt_operacyjny;;200;najem biura i media;93476.84
+2025-10;koszt_operacyjny;;200;pozostale;15837.96
+2025-10;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);21590.16
+2025-10;koszt_operacyjny;;200;wynagrodzenia z narzutami;166513.64
+2025-10;koszt_operacyjny;;300;marketing i podroze;46813.33
+2025-10;koszt_operacyjny;;300;samochody sluzbowe;15853.22
+2025-10;koszt_operacyjny;;300;wynagrodzenia z narzutami;217030.10
+2025-10;koszt_operacyjny;;410;samochody sluzbowe;5760.49
+2025-10;koszt_operacyjny;;410;wynagrodzenia z narzutami;220819.83
+2025-10;koszt_operacyjny;;420;wynagrodzenia z narzutami;127023.98
+2025-10;koszt_operacyjny;;430;wynagrodzenia z narzutami;119909.66
+2025-10;koszt_operacyjny;;440;samochody sluzbowe;4129.53
+2025-10;koszt_operacyjny;;440;wynagrodzenia z narzutami;79332.70
+2025-10;koszt_operacyjny;;500;IT i licencje;63341.02
+2025-10;koszt_operacyjny;;500;wynagrodzenia z narzutami;86120.85
+2025-10;przychod;CEL;;konsultacje taryfowe i doradztwo celne;48661.72
+2025-10;przychod;CEL;;zgloszenia celne;597616.29
+2025-10;przychod;FCL;;fracht morski;8378287.83
+2025-10;przychod;FCL;;oplaty lokalne i dokumentacja;1570609.91
+2025-10;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);361862.24
+2025-10;przychod;LCL;;fracht skonsolidowany;1164137.94
+2025-10;przychod;LCL;;oplaty magazynowe CFS;275736.86
+2025-10;przychod;TRN;;dowozy kontenerow;2511622.36
+2025-10;przychod;TRN;;oplaty dodatkowe (postoje, ADR);83872.92
+2025-11;koszt_bezposredni;CEL;;systemy i oplaty celne;24208.73
+2025-11;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;252479.40
+2025-11;koszt_bezposredni;FCL;;fracht armatorski;6948675.12
+2025-11;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1227277.80
+2025-11;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;190230.81
+2025-11;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);1039689.82
+2025-11;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);175881.87
+2025-11;koszt_bezposredni;LCL;;oplaty portowe;53412.15
+2025-11;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;68540.81
+2025-11;koszt_bezposredni;TRN;;podwykonawcy transportowi;2405268.03
+2025-11;koszt_operacyjny;;100;samochody sluzbowe;8930.10
+2025-11;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);11080.37
+2025-11;koszt_operacyjny;;100;wynagrodzenia z narzutami;105413.61
+2025-11;koszt_operacyjny;;200;najem biura i media;94795.77
+2025-11;koszt_operacyjny;;200;pozostale;17768.40
+2025-11;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);21985.74
+2025-11;koszt_operacyjny;;200;wynagrodzenia z narzutami;160926.13
+2025-11;koszt_operacyjny;;300;marketing i podroze;25815.92
+2025-11;koszt_operacyjny;;300;samochody sluzbowe;15450.60
+2025-11;koszt_operacyjny;;300;wynagrodzenia z narzutami;220949.36
+2025-11;koszt_operacyjny;;410;samochody sluzbowe;5925.50
+2025-11;koszt_operacyjny;;410;wynagrodzenia z narzutami;213699.17
+2025-11;koszt_operacyjny;;420;wynagrodzenia z narzutami;125103.64
+2025-11;koszt_operacyjny;;430;wynagrodzenia z narzutami;119742.31
+2025-11;koszt_operacyjny;;440;samochody sluzbowe;4451.77
+2025-11;koszt_operacyjny;;440;wynagrodzenia z narzutami;77203.03
+2025-11;koszt_operacyjny;;500;IT i licencje;66893.34
+2025-11;koszt_operacyjny;;500;wynagrodzenia z narzutami;87154.84
+2025-11;przychod;CEL;;konsultacje taryfowe i doradztwo celne;52146.94
+2025-11;przychod;CEL;;zgloszenia celne;624342.64
+2025-11;przychod;FCL;;fracht morski;7656410.93
+2025-11;przychod;FCL;;oplaty lokalne i dokumentacja;1585878.95
+2025-11;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);332361.54
+2025-11;przychod;LCL;;fracht skonsolidowany;1223998.60
+2025-11;przychod;LCL;;oplaty magazynowe CFS;328597.12
+2025-11;przychod;TRN;;dowozy kontenerow;2659435.49
+2025-11;przychod;TRN;;oplaty dodatkowe (postoje, ADR);99273.93
+2025-12;koszt_bezposredni;CEL;;systemy i oplaty celne;25400.97
+2025-12;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;215659.73
+2025-12;koszt_bezposredni;FCL;;fracht armatorski;5768525.42
+2025-12;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1121035.09
+2025-12;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;144653.96
+2025-12;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);835464.06
+2025-12;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);139376.52
+2025-12;koszt_bezposredni;LCL;;oplaty portowe;43139.11
+2025-12;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;70342.93
+2025-12;koszt_bezposredni;TRN;;podwykonawcy transportowi;1998726.56
+2025-12;koszt_operacyjny;;100;samochody sluzbowe;8223.90
+2025-12;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);11778.91
+2025-12;koszt_operacyjny;;100;wynagrodzenia z narzutami;148217.67
+2025-12;koszt_operacyjny;;200;najem biura i media;94042.71
+2025-12;koszt_operacyjny;;200;pozostale;23012.90
+2025-12;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);21559.41
+2025-12;koszt_operacyjny;;200;wynagrodzenia z narzutami;235749.81
+2025-12;koszt_operacyjny;;300;marketing i podroze;35779.55
+2025-12;koszt_operacyjny;;300;samochody sluzbowe;14895.09
+2025-12;koszt_operacyjny;;300;wynagrodzenia z narzutami;316224.98
+2025-12;koszt_operacyjny;;410;samochody sluzbowe;6338.06
+2025-12;koszt_operacyjny;;410;wynagrodzenia z narzutami;311209.51
+2025-12;koszt_operacyjny;;420;wynagrodzenia z narzutami;182149.81
+2025-12;koszt_operacyjny;;430;wynagrodzenia z narzutami;173889.38
+2025-12;koszt_operacyjny;;440;samochody sluzbowe;4131.31
+2025-12;koszt_operacyjny;;440;wynagrodzenia z narzutami;111833.87
+2025-12;koszt_operacyjny;;500;IT i licencje;65603.94
+2025-12;koszt_operacyjny;;500;wynagrodzenia z narzutami;126235.78
+2025-12;przychod;CEL;;konsultacje taryfowe i doradztwo celne;47118.57
+2025-12;przychod;CEL;;zgloszenia celne;556669.27
+2025-12;przychod;FCL;;fracht morski;6310751.96
+2025-12;przychod;FCL;;oplaty lokalne i dokumentacja;1416975.38
+2025-12;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);234747.61
+2025-12;przychod;LCL;;fracht skonsolidowany;981206.77
+2025-12;przychod;LCL;;oplaty magazynowe CFS;242766.48
+2025-12;przychod;TRN;;dowozy kontenerow;2182646.16
+2025-12;przychod;TRN;;oplaty dodatkowe (postoje, ADR);73763.32
+2026-01;koszt_bezposredni;CEL;;systemy i oplaty celne;25961.85
+2026-01;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;201879.78
+2026-01;koszt_bezposredni;FCL;;fracht armatorski;5489464.88
+2026-01;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;967171.38
+2026-01;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;161269.09
+2026-01;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);642528.05
+2026-01;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);107320.75
+2026-01;koszt_bezposredni;LCL;;oplaty portowe;33671.90
+2026-01;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;69103.96
+2026-01;koszt_bezposredni;TRN;;podwykonawcy transportowi;1890238.09
+2026-01;koszt_operacyjny;;100;samochody sluzbowe;8564.60
+2026-01;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);12372.50
+2026-01;koszt_operacyjny;;100;wynagrodzenia z narzutami;113360.33
+2026-01;koszt_operacyjny;;200;najem biura i media;89668.98
+2026-01;koszt_operacyjny;;200;pozostale;20411.86
+2026-01;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);22592.24
+2026-01;koszt_operacyjny;;200;wynagrodzenia z narzutami;180713.33
+2026-01;koszt_operacyjny;;300;marketing i podroze;28011.65
+2026-01;koszt_operacyjny;;300;samochody sluzbowe;15782.20
+2026-01;koszt_operacyjny;;300;wynagrodzenia z narzutami;229028.94
+2026-01;koszt_operacyjny;;410;samochody sluzbowe;5308.65
+2026-01;koszt_operacyjny;;410;wynagrodzenia z narzutami;229885.73
+2026-01;koszt_operacyjny;;420;wynagrodzenia z narzutami;131540.92
+2026-01;koszt_operacyjny;;430;wynagrodzenia z narzutami;129954.09
+2026-01;koszt_operacyjny;;440;samochody sluzbowe;3904.25
+2026-01;koszt_operacyjny;;440;wynagrodzenia z narzutami;84444.01
+2026-01;koszt_operacyjny;;500;IT i licencje;972517.49
+2026-01;koszt_operacyjny;;500;wynagrodzenia z narzutami;92941.81
+2026-01;przychod;CEL;;konsultacje taryfowe i doradztwo celne;49082.02
+2026-01;przychod;CEL;;zgloszenia celne;525323.16
+2026-01;przychod;FCL;;fracht morski;5975434.25
+2026-01;przychod;FCL;;oplaty lokalne i dokumentacja;1250816.84
+2026-01;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);297776.34
+2026-01;przychod;LCL;;fracht skonsolidowany;769864.83
+2026-01;przychod;LCL;;oplaty magazynowe CFS;205966.53
+2026-01;przychod;TRN;;dowozy kontenerow;2079578.21
+2026-01;przychod;TRN;;oplaty dodatkowe (postoje, ADR);78697.30
+2026-02;koszt_bezposredni;CEL;;systemy i oplaty celne;25986.80
+2026-02;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;184617.75
+2026-02;koszt_bezposredni;FCL;;fracht armatorski;4777665.97
+2026-02;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;835196.53
+2026-02;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;118175.29
+2026-02;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);612083.52
+2026-02;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);115307.77
+2026-02;koszt_bezposredni;LCL;;oplaty portowe;32606.61
+2026-02;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;54309.29
+2026-02;koszt_bezposredni;TRN;;podwykonawcy transportowi;1720098.34
+2026-02;koszt_operacyjny;;100;samochody sluzbowe;9131.47
+2026-02;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);7608.32
+2026-02;koszt_operacyjny;;100;wynagrodzenia z narzutami;112729.02
+2026-02;koszt_operacyjny;;200;najem biura i media;95266.65
+2026-02;koszt_operacyjny;;200;pozostale;13785.48
+2026-02;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);62142.23
+2026-02;koszt_operacyjny;;200;wynagrodzenia z narzutami;175870.92
+2026-02;koszt_operacyjny;;300;marketing i podroze;28900.17
+2026-02;koszt_operacyjny;;300;samochody sluzbowe;14073.36
+2026-02;koszt_operacyjny;;300;wynagrodzenia z narzutami;232676.99
+2026-02;koszt_operacyjny;;410;samochody sluzbowe;6443.92
+2026-02;koszt_operacyjny;;410;wynagrodzenia z narzutami;227282.51
+2026-02;koszt_operacyjny;;420;wynagrodzenia z narzutami;134047.75
+2026-02;koszt_operacyjny;;430;wynagrodzenia z narzutami;132580.17
+2026-02;koszt_operacyjny;;440;samochody sluzbowe;3753.54
+2026-02;koszt_operacyjny;;440;wynagrodzenia z narzutami;84070.79
+2026-02;koszt_operacyjny;;500;IT i licencje;69692.20
+2026-02;koszt_operacyjny;;500;wynagrodzenia z narzutami;94549.01
+2026-02;przychod;CEL;;konsultacje taryfowe i doradztwo celne;55534.32
+2026-02;przychod;CEL;;zgloszenia celne;489710.13
+2026-02;przychod;FCL;;fracht morski;5268164.48
+2026-02;przychod;FCL;;oplaty lokalne i dokumentacja;1095550.60
+2026-02;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);223876.93
+2026-02;przychod;LCL;;fracht skonsolidowany;717471.67
+2026-02;przychod;LCL;;oplaty magazynowe CFS;202327.36
+2026-02;przychod;TRN;;dowozy kontenerow;1909424.93
+2026-02;przychod;TRN;;oplaty dodatkowe (postoje, ADR);66490.88
+2026-03;koszt_bezposredni;CEL;;systemy i oplaty celne;25968.60
+2026-03;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;227767.55
+2026-03;koszt_bezposredni;FCL;;fracht armatorski;5580145.04
+2026-03;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1092443.21
+2026-03;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;146525.67
+2026-03;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);703126.35
+2026-03;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);123345.04
+2026-03;koszt_bezposredni;LCL;;oplaty portowe;38391.19
+2026-03;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;57740.63
+2026-03;koszt_bezposredni;TRN;;podwykonawcy transportowi;2674082.53
+2026-03;koszt_operacyjny;;100;samochody sluzbowe;9071.24
+2026-03;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);11003.97
+2026-03;koszt_operacyjny;;100;wynagrodzenia z narzutami;111960.95
+2026-03;koszt_operacyjny;;200;najem biura i media;99271.51
+2026-03;koszt_operacyjny;;200;pozostale;20932.75
+2026-03;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);61404.89
+2026-03;koszt_operacyjny;;200;wynagrodzenia z narzutami;174791.04
+2026-03;koszt_operacyjny;;300;marketing i podroze;42319.77
+2026-03;koszt_operacyjny;;300;samochody sluzbowe;14566.92
+2026-03;koszt_operacyjny;;300;wynagrodzenia z narzutami;237631.52
+2026-03;koszt_operacyjny;;410;samochody sluzbowe;5344.41
+2026-03;koszt_operacyjny;;410;wynagrodzenia z narzutami;220480.75
+2026-03;koszt_operacyjny;;420;wynagrodzenia z narzutami;136577.68
+2026-03;koszt_operacyjny;;430;wynagrodzenia z narzutami;128522.78
+2026-03;koszt_operacyjny;;440;samochody sluzbowe;4571.12
+2026-03;koszt_operacyjny;;440;wynagrodzenia z narzutami;81625.82
+2026-03;koszt_operacyjny;;500;IT i licencje;68367.07
+2026-03;koszt_operacyjny;;500;wynagrodzenia z narzutami;94928.03
+2026-03;przychod;CEL;;konsultacje taryfowe i doradztwo celne;47354.41
+2026-03;przychod;CEL;;zgloszenia celne;576205.33
+2026-03;przychod;FCL;;fracht morski;6062054.47
+2026-03;przychod;FCL;;oplaty lokalne i dokumentacja;1343582.41
+2026-03;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);318423.56
+2026-03;przychod;LCL;;fracht skonsolidowany;836457.86
+2026-03;przychod;LCL;;oplaty magazynowe CFS;233661.83
+2026-03;przychod;TRN;;dowozy kontenerow;2277055.04
+2026-03;przychod;TRN;;oplaty dodatkowe (postoje, ADR);72942.28
+2026-04;koszt_bezposredni;CEL;;systemy i oplaty celne;25484.97
+2026-04;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;225863.42
+2026-04;koszt_bezposredni;FCL;;fracht armatorski;6074330.81
+2026-04;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1166296.68
+2026-04;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;151622.21
+2026-04;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);739797.88
+2026-04;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);132269.03
+2026-04;koszt_bezposredni;LCL;;oplaty portowe;40955.21
+2026-04;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;64354.39
+2026-04;koszt_bezposredni;TRN;;podwykonawcy transportowi;1510284.65
+2026-04;koszt_operacyjny;;100;samochody sluzbowe;8218.27
+2026-04;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);11214.73
+2026-04;koszt_operacyjny;;100;wynagrodzenia z narzutami;110682.12
+2026-04;koszt_operacyjny;;200;najem biura i media;96276.11
+2026-04;koszt_operacyjny;;200;pozostale;18667.67
+2026-04;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);16739.80
+2026-04;koszt_operacyjny;;200;wynagrodzenia z narzutami;175383.36
+2026-04;koszt_operacyjny;;300;marketing i podroze;28039.86
+2026-04;koszt_operacyjny;;300;samochody sluzbowe;13745.99
+2026-04;koszt_operacyjny;;300;wynagrodzenia z narzutami;236451.89
+2026-04;koszt_operacyjny;;410;samochody sluzbowe;5839.29
+2026-04;koszt_operacyjny;;410;wynagrodzenia z narzutami;223632.09
+2026-04;koszt_operacyjny;;420;wynagrodzenia z narzutami;136508.36
+2026-04;koszt_operacyjny;;430;wynagrodzenia z narzutami;130129.74
+2026-04;koszt_operacyjny;;440;samochody sluzbowe;3693.17
+2026-04;koszt_operacyjny;;440;wynagrodzenia z narzutami;84147.31
+2026-04;koszt_operacyjny;;500;IT i licencje;73828.33
+2026-04;koszt_operacyjny;;500;wynagrodzenia z narzutami;91785.58
+2026-04;przychod;CEL;;konsultacje taryfowe i doradztwo celne;37876.65
+2026-04;przychod;CEL;;zgloszenia celne;567593.30
+2026-04;przychod;FCL;;fracht morski;6651840.72
+2026-04;przychod;FCL;;oplaty lokalne i dokumentacja;1481034.48
+2026-04;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);307198.79
+2026-04;przychod;LCL;;fracht skonsolidowany;902496.55
+2026-04;przychod;LCL;;oplaty magazynowe CFS;244564.45
+2026-04;przychod;TRN;;dowozy kontenerow;2331715.24
+2026-04;przychod;TRN;;oplaty dodatkowe (postoje, ADR);70976.78
+2026-05;koszt_bezposredni;CEL;;systemy i oplaty celne;26818.89
+2026-05;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;223527.55
+2026-05;koszt_bezposredni;FCL;;fracht armatorski;6076169.03
+2026-05;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1113294.28
+2026-05;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;158718.59
+2026-05;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);803611.36
+2026-05;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);151941.30
+2026-05;koszt_bezposredni;LCL;;oplaty portowe;44229.74
+2026-05;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;84158.24
+2026-05;koszt_bezposredni;TRN;;podwykonawcy transportowi;2176123.75
+2026-05;koszt_operacyjny;;100;samochody sluzbowe;8817.30
+2026-05;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);11934.40
+2026-05;koszt_operacyjny;;100;wynagrodzenia z narzutami;110062.72
+2026-05;koszt_operacyjny;;200;najem biura i media;95599.52
+2026-05;koszt_operacyjny;;200;pozostale;24230.02
+2026-05;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);16724.38
+2026-05;koszt_operacyjny;;200;wynagrodzenia z narzutami;176555.26
+2026-05;koszt_operacyjny;;300;marketing i podroze;46085.86
+2026-05;koszt_operacyjny;;300;samochody sluzbowe;15984.06
+2026-05;koszt_operacyjny;;300;wynagrodzenia z narzutami;235211.61
+2026-05;koszt_operacyjny;;410;samochody sluzbowe;6165.91
+2026-05;koszt_operacyjny;;410;wynagrodzenia z narzutami;231440.21
+2026-05;koszt_operacyjny;;420;wynagrodzenia z narzutami;136487.05
+2026-05;koszt_operacyjny;;430;wynagrodzenia z narzutami;131335.16
+2026-05;koszt_operacyjny;;440;samochody sluzbowe;4604.19
+2026-05;koszt_operacyjny;;440;wynagrodzenia z narzutami;84257.36
+2026-05;koszt_operacyjny;;500;IT i licencje;66012.85
+2026-05;koszt_operacyjny;;500;wynagrodzenia z narzutami;93029.42
+2026-05;przychod;CEL;;konsultacje taryfowe i doradztwo celne;39285.34
+2026-05;przychod;CEL;;zgloszenia celne;596401.47
+2026-05;przychod;FCL;;fracht morski;6658470.69
+2026-05;przychod;FCL;;oplaty lokalne i dokumentacja;1475567.66
+2026-05;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);289377.65
+2026-05;przychod;LCL;;fracht skonsolidowany;969197.46
+2026-05;przychod;LCL;;oplaty magazynowe CFS;280636.67
+2026-05;przychod;TRN;;dowozy kontenerow;2407624.86
+2026-05;przychod;TRN;;oplaty dodatkowe (postoje, ADR);99498.74
+2026-06;koszt_bezposredni;CEL;;systemy i oplaty celne;26197.86
+2026-06;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;219238.10
+2026-06;koszt_bezposredni;FCL;;fracht armatorski;5692686.10
+2026-06;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1077852.32
+2026-06;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;149542.77
+2026-06;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);708813.04
+2026-06;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);127095.97
+2026-06;koszt_bezposredni;LCL;;oplaty portowe;37780.94
+2026-06;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;54395.16
+2026-06;koszt_bezposredni;TRN;;podwykonawcy transportowi;1940196.58
+2026-06;koszt_operacyjny;;100;samochody sluzbowe;8741.12
+2026-06;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);12969.58
+2026-06;koszt_operacyjny;;100;wynagrodzenia z narzutami;109618.70
+2026-06;koszt_operacyjny;;200;najem biura i media;101764.90
+2026-06;koszt_operacyjny;;200;pozostale;13987.94
+2026-06;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);20524.02
+2026-06;koszt_operacyjny;;200;wynagrodzenia z narzutami;176716.09
+2026-06;koszt_operacyjny;;300;marketing i podroze;29086.08
+2026-06;koszt_operacyjny;;300;samochody sluzbowe;17718.45
+2026-06;koszt_operacyjny;;300;wynagrodzenia z narzutami;235884.72
+2026-06;koszt_operacyjny;;410;samochody sluzbowe;5998.34
+2026-06;koszt_operacyjny;;410;wynagrodzenia z narzutami;226318.52
+2026-06;koszt_operacyjny;;420;wynagrodzenia z narzutami;132842.55
+2026-06;koszt_operacyjny;;430;wynagrodzenia z narzutami;128165.59
+2026-06;koszt_operacyjny;;440;samochody sluzbowe;4164.25
+2026-06;koszt_operacyjny;;440;wynagrodzenia z narzutami;82798.13
+2026-06;koszt_operacyjny;;500;IT i licencje;68784.80
+2026-06;koszt_operacyjny;;500;wynagrodzenia z narzutami;93827.59
+2026-06;przychod;CEL;;konsultacje taryfowe i doradztwo celne;37688.90
+2026-06;przychod;CEL;;zgloszenia celne;548570.95
+2026-06;przychod;FCL;;fracht morski;6223234.57
+2026-06;przychod;FCL;;oplaty lokalne i dokumentacja;1359738.48
+2026-06;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);300076.75
+2026-06;przychod;LCL;;fracht skonsolidowany;844584.74
+2026-06;przychod;LCL;;oplaty magazynowe CFS;228301.41
+2026-06;przychod;TRN;;dowozy kontenerow;2142700.14
+2026-06;przychod;TRN;;oplaty dodatkowe (postoje, ADR);68164.07
+2026-07;koszt_bezposredni;CEL;;systemy i oplaty celne;25538.64
+2026-07;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;223764.42
+2026-07;koszt_bezposredni;FCL;;fracht armatorski;5500597.83
+2026-07;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1029805.13
+2026-07;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;171606.93
+2026-07;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);760569.17
+2026-07;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);129357.81
+2026-07;koszt_bezposredni;LCL;;oplaty portowe;40408.42
+2026-07;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;65613.22
+2026-07;koszt_bezposredni;TRN;;podwykonawcy transportowi;1956380.88
+2026-07;koszt_operacyjny;;100;samochody sluzbowe;8016.52
+2026-07;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);11927.44
+2026-07;koszt_operacyjny;;100;wynagrodzenia z narzutami;110672.17
+2026-07;koszt_operacyjny;;200;najem biura i media;93529.60
+2026-07;koszt_operacyjny;;200;pozostale;19477.94
+2026-07;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);20809.68
+2026-07;koszt_operacyjny;;200;wynagrodzenia z narzutami;174494.38
+2026-07;koszt_operacyjny;;300;marketing i podroze;34779.03
+2026-07;koszt_operacyjny;;300;samochody sluzbowe;15084.85
+2026-07;koszt_operacyjny;;300;wynagrodzenia z narzutami;232784.10
+2026-07;koszt_operacyjny;;410;samochody sluzbowe;6132.52
+2026-07;koszt_operacyjny;;410;wynagrodzenia z narzutami;239122.82
+2026-07;koszt_operacyjny;;420;wynagrodzenia z narzutami;131412.39
+2026-07;koszt_operacyjny;;430;wynagrodzenia z narzutami;131473.77
+2026-07;koszt_operacyjny;;440;samochody sluzbowe;4229.35
+2026-07;koszt_operacyjny;;440;wynagrodzenia z narzutami;83539.38
+2026-07;koszt_operacyjny;;500;IT i licencje;67298.03
+2026-07;koszt_operacyjny;;500;wynagrodzenia z narzutami;95824.05
+2026-07;przychod;CEL;;konsultacje taryfowe i doradztwo celne;54522.57
+2026-07;przychod;CEL;;zgloszenia celne;565540.69
+2026-07;przychod;FCL;;fracht morski;6051966.65
+2026-07;przychod;FCL;;oplaty lokalne i dokumentacja;1340886.09
+2026-07;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);269017.93
+2026-07;przychod;LCL;;fracht skonsolidowany;925755.93
+2026-07;przychod;LCL;;oplaty magazynowe CFS;244892.76
+2026-07;przychod;TRN;;dowozy kontenerow;2170224.13
+2026-07;przychod;TRN;;oplaty dodatkowe (postoje, ADR);82635.13
+2026-08;koszt_bezposredni;CEL;;systemy i oplaty celne;25381.38
+2026-08;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;202016.42
+2026-08;koszt_bezposredni;FCL;;fracht armatorski;4744717.67
+2026-08;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1034431.22
+2026-08;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;132621.79
+2026-08;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);696074.74
+2026-08;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);126934.13
+2026-08;koszt_bezposredni;LCL;;oplaty portowe;36853.06
+2026-08;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;57719.64
+2026-08;koszt_bezposredni;TRN;;podwykonawcy transportowi;1918206.92
+2026-08;koszt_operacyjny;;100;samochody sluzbowe;9087.11
+2026-08;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);15069.60
+2026-08;koszt_operacyjny;;100;wynagrodzenia z narzutami;114157.31
+2026-08;koszt_operacyjny;;200;najem biura i media;99800.50
+2026-08;koszt_operacyjny;;200;pozostale;20725.96
+2026-08;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);21971.35
+2026-08;koszt_operacyjny;;200;wynagrodzenia z narzutami;174735.54
+2026-08;koszt_operacyjny;;300;marketing i podroze;37576.06
+2026-08;koszt_operacyjny;;300;samochody sluzbowe;15073.48
+2026-08;koszt_operacyjny;;300;wynagrodzenia z narzutami;236237.34
+2026-08;koszt_operacyjny;;410;samochody sluzbowe;6114.61
+2026-08;koszt_operacyjny;;410;wynagrodzenia z narzutami;228847.23
+2026-08;koszt_operacyjny;;420;wynagrodzenia z narzutami;135096.40
+2026-08;koszt_operacyjny;;430;wynagrodzenia z narzutami;128637.77
+2026-08;koszt_operacyjny;;440;samochody sluzbowe;3776.07
+2026-08;koszt_operacyjny;;440;wynagrodzenia z narzutami;83340.84
+2026-08;koszt_operacyjny;;500;IT i licencje;66575.04
+2026-08;koszt_operacyjny;;500;wynagrodzenia z narzutami;93054.09
+2026-08;przychod;CEL;;konsultacje taryfowe i doradztwo celne;58420.33
+2026-08;przychod;CEL;;zgloszenia celne;521346.68
+2026-08;przychod;FCL;;fracht morski;5190345.01
+2026-08;przychod;FCL;;oplaty lokalne i dokumentacja;1258390.44
+2026-08;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);259527.85
+2026-08;przychod;LCL;;fracht skonsolidowany;834061.37
+2026-08;przychod;LCL;;oplaty magazynowe CFS;233854.80
+2026-08;przychod;TRN;;dowozy kontenerow;2106850.89
+2026-08;przychod;TRN;;oplaty dodatkowe (postoje, ADR);82324.48
+2026-09;koszt_bezposredni;CEL;;systemy i oplaty celne;26452.18
+2026-09;koszt_bezposredni;CEL;;uslugi zewnetrznych agencji celnych;228871.30
+2026-09;koszt_bezposredni;FCL;;fracht armatorski;5528045.72
+2026-09;koszt_bezposredni;FCL;;oplaty terminalowe i portowe;1125616.09
+2026-09;koszt_bezposredni;FCL;;ubezpieczenie cargo i skladowanie;158876.11
+2026-09;koszt_bezposredni;LCL;;fracht armatorski (konsolidacja);858941.19
+2026-09;koszt_bezposredni;LCL;;obsluga magazynu CFS (podwykonawca);152411.46
+2026-09;koszt_bezposredni;LCL;;oplaty portowe;43592.57
+2026-09;koszt_bezposredni;TRN;;oplaty dodatkowe przewoznikow;74842.62
+2026-09;koszt_bezposredni;TRN;;podwykonawcy transportowi;2069578.78
+2026-09;koszt_operacyjny;;100;samochody sluzbowe;8287.64
+2026-09;koszt_operacyjny;;100;uslugi zewnetrzne (audyt, prawne, doradztwo);11473.28
+2026-09;koszt_operacyjny;;100;wynagrodzenia z narzutami;113452.50
+2026-09;koszt_operacyjny;;200;najem biura i media;99092.53
+2026-09;koszt_operacyjny;;200;pozostale;18645.16
+2026-09;koszt_operacyjny;;200;uslugi zewnetrzne (audyt, prawne, doradztwo);22624.95
+2026-09;koszt_operacyjny;;200;wynagrodzenia z narzutami;180547.20
+2026-09;koszt_operacyjny;;300;marketing i podroze;43907.46
+2026-09;koszt_operacyjny;;300;samochody sluzbowe;15257.41
+2026-09;koszt_operacyjny;;300;wynagrodzenia z narzutami;234760.38
+2026-09;koszt_operacyjny;;410;samochody sluzbowe;6426.11
+2026-09;koszt_operacyjny;;410;wynagrodzenia z narzutami;227616.50
+2026-09;koszt_operacyjny;;420;wynagrodzenia z narzutami;135015.32
+2026-09;koszt_operacyjny;;430;wynagrodzenia z narzutami;132796.90
+2026-09;koszt_operacyjny;;440;samochody sluzbowe;3907.86
+2026-09;koszt_operacyjny;;440;wynagrodzenia z narzutami;80750.34
+2026-09;koszt_operacyjny;;500;IT i licencje;71333.80
+2026-09;koszt_operacyjny;;500;wynagrodzenia z narzutami;93118.56
+2026-09;przychod;CEL;;konsultacje taryfowe i doradztwo celne;47568.55
+2026-09;przychod;CEL;;zgloszenia celne;597019.10
+2026-09;przychod;FCL;;fracht morski;6108413.84
+2026-09;przychod;FCL;;oplaty lokalne i dokumentacja;1412739.01
+2026-09;przychod;FCL;;uslugi dodatkowe (ubezpieczenie cargo, skladowanie);273793.14
+2026-09;przychod;LCL;;fracht skonsolidowany;1030783.25
+2026-09;przychod;LCL;;oplaty magazynowe CFS;272134.43
+2026-09;przychod;TRN;;dowozy kontenerow;2286614.60
+2026-09;przychod;TRN;;oplaty dodatkowe (postoje, ADR);72771.10
